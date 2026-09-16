@@ -19,7 +19,8 @@ abstract: >-
   Catalog engineering envelope: −255 °C to 1000 °C; 1.5–60 W/m·K (sintered silver 260–280 W/m·K);
   CTE 7.1–40 ppm/°C; tensile modulus 2.6–15 GPa with low-stress elastomer/PU grades; shear strength
   5–32 MPa; volume resistivity from 3×10⁻⁶ Ω·cm (conductive) to >10¹⁴ Ω·cm (insulating); reliability
-  retention TC1000 88–98%, THS 1000 h (85/85) 70–90%, HTSL 85–96%. The article library covers interface
+  retention TC1000 (−40/125 °C) 88–98%, THS 1000 h (85 °C/85% RH) 70–98% with 90–98% on mainstream
+  semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
   materials and thermal management, packaging processes and advanced packaging, reliability engineering
   and failure analysis, and selection criteria with test-method frameworks. Full text in Chinese and
   English; the official version of record is https://www.sciteo.com/tech-insights/

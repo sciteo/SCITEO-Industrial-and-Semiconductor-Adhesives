@@ -16,7 +16,9 @@ Series-level ranges across the SCITEO catalog (per-SKU values, test conditions a
 | Tensile modulus ｜ 拉伸模量 | 2.6–15 GPa, multi-grade; low-stress elastomer / PU grades at 180% elongation ｜ 另有低应力弹性体/聚氨酯档，断裂伸长率 180% |
 | Bond / shear strength ｜ 粘接与剪切强度 | 5–32 MPa |
 | Volume resistivity ｜ 体积电阻率 | conductive grades down to 3×10⁻⁶ Ω·cm; insulating grades >10¹⁴ Ω·cm ｜ 导电档低至 3×10⁻⁶ Ω·cm；绝缘档 >10¹⁴ Ω·cm |
-| Reliability retention ｜ 可靠性保持率 | TC1000: 88–98% ｜ THS 1000 h (85 °C/85% RH): 70–90% ｜ HTSL: 85–96% |
+| Reliability retention ｜ 可靠性保持率 | TC1000 (−40/125 °C): 88–98% ｜ THS 1000 h (85 °C/85% RH): 70–98%, with 90–98% on mainstream semiconductor packaging grades ｜ 半导体封装主力档 90–98% ｜ HTSL (by condition ｜ 按条件): 70–96% |
+
+Note on comparability ｜ 可比性说明: reliability ranges span different chemistries **and** different test conditions (HTSL runs from 168 h at 500 °C to 1000 h at 190 °C; THS 1000 h at 85/85 is the harshest humidity gate). Grade-level conditions, values and standards are published on each product page. ｜ 可靠性区间跨不同体系与不同测试条件（HTSL 从 500 °C/168 h 到 190 °C/1000 h；THS 1000 h 85/85 为最严湿热门槛），单档条件、数值与标准见各产品页。
 
 ## Articles ｜ 文章列表
 
