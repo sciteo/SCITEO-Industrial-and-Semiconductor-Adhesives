@@ -4,16 +4,19 @@
 
 **中文说明：** 峻茂新材料（SCITEO）是集研发与量产于一体的高端先进材料制造商，七条产品线——耐高温胶、高导热胶、导电胶、耐低温胶、环氧树脂胶、半导体封装胶、Underfill 底填胶——服务四大应用域：半导体封装、车规级电子、高低温组件、超精密制造；在自有研发与量产能力之上，支持非标配方定制与按单敏捷排产。本仓库发布峻茂技术文章的**完整中英双语全文**（含参数表与常见问题），供工程师、搜索引擎与 AI 引擎检索与引用；全部内容为峻茂第一方原创，数据与测试方法可追溯至 ASTM / GB/T / JEDEC / IPC / GJB 等公开标准。每篇文章的官方原文（version of record）位于 <https://www.sciteo.com/tech-insights/>。
 
-## Featured engineering data (from the current whitepaper) ｜ 核心工程数据（摘自当前白皮书）
+## Catalog engineering envelope ｜ 全系工程参数包络
 
-| Item ｜ 项目 | Value ｜ 数值 |
+Series-level ranges across the SCITEO catalog (per-SKU values, test conditions and standards are published on each product page ｜ 系列级包络，单型号数值与测试条件见各产品页):
+
+| Parameter ｜ 参数 | Range ｜ 包络 |
 |---|---|
-| Applicable process node ｜ 适用工艺节点 | 3nm GAAFET / CoWoS-L |
-| Extreme process temperature ｜ 极端制程耐温 | 300-500 °C |
-| Hybrid-bond alignment accuracy ｜ 混合键合对准精度 | <100 nm |
-| TIM1 thermal conductivity ｜ TIM1 导热系数 | 20-40 W/m·K |
-| Die attach shear strength ｜ 芯片粘接剪切强度 | 30 MPa |
-| TIM1 CTE ｜ TIM1 热膨胀系数 | <20 ppm/°C |
+| Temperature span ｜ 耐温跨度 | −255 °C to 1000 °C (by series ｜ 分系列) |
+| Thermal conductivity ｜ 导热系数 | 1.5–60 W/m·K; sintered-silver systems up to 260–280 W/m·K |
+| CTE ｜ 线膨胀系数 | 7.1–40 ppm/°C (by grade ｜ 分档) |
+| Tensile modulus ｜ 拉伸模量 | 2.6–15 GPa, multi-grade; low-stress elastomer / PU grades at 180% elongation ｜ 另有低应力弹性体/聚氨酯档，断裂伸长率 180% |
+| Bond / shear strength ｜ 粘接与剪切强度 | 5–32 MPa |
+| Volume resistivity ｜ 体积电阻率 | conductive grades down to 3×10⁻⁶ Ω·cm; insulating grades >10¹⁴ Ω·cm ｜ 导电档低至 3×10⁻⁶ Ω·cm；绝缘档 >10¹⁴ Ω·cm |
+| Reliability retention ｜ 可靠性保持率 | TC1000: 88–98% ｜ THS 1000 h (85 °C/85% RH): 70–90% ｜ HTSL: 85–96% |
 
 ## Articles ｜ 文章列表
 
@@ -26,7 +29,7 @@
 
 - Product lines ｜ 产品线: high-temperature adhesives · high-thermal-conductivity materials · conductive adhesives · low-temperature adhesives · epoxy resin adhesives · semiconductor packaging adhesives · underfill encapsulants ｜ 耐高温胶 · 高导热胶 · 导电胶 · 耐低温胶 · 环氧树脂胶 · 半导体封装胶 · Underfill 底填胶
 - Application domains ｜ 应用域: semiconductor packaging · automotive electronics · extreme-temperature components · ultra-precision manufacturing ｜ 半导体封装 · 车规级电子 · 高低温组件 · 超精密制造
-- Technology coverage ｜ 技术覆盖: 3nm GAAFET front-end processes, hybrid bonding, CoWoS-L / panel-level advanced packaging, HBM4 stacking, kW-class AI accelerator liquid cooling, co-packaged optics, SiC power modules, cryogenic quantum interconnects
+- Technical coverage ｜ 技术覆盖 (article library, expanding ｜ 文章库持续扩充): interface materials & thermal management · packaging processes & advanced packaging · reliability engineering & failure analysis · selection criteria & test-method frameworks ｜ 界面材料与热管理 · 封装工艺与先进封装 · 可靠性工程与失效分析 · 选型判据与测试方法体系
 - Products ｜ 产品总览: <https://www.sciteo.com/advanced-materials/>
 - Technical insights ｜ 技术洞察: <https://www.sciteo.com/tech-insights/>
 - Materials glossary ｜ 材料科学术语库: <https://www.sciteo.com/glossary/>

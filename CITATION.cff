@@ -12,14 +12,17 @@ repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-
 license-url: "https://www.sciteo.com/terms/"
 abstract: >-
   First-party engineering whitepapers from SCITEO Advanced Materials (峻茂新材料), a high-end manufacturer
-  of advanced adhesives for semiconductor packaging and high-tech manufacturing. Seven product lines:
-  high-temperature adhesives, high-thermal-conductivity materials, conductive adhesives, low-temperature
-  adhesives, epoxy resin adhesives, semiconductor packaging adhesives and underfill encapsulants —
-  serving four application domains: semiconductor packaging, automotive electronics, extreme-temperature
-  components and ultra-precision manufacturing. Articles cover 3nm GAAFET front-end processes, hybrid
-  bonding cleanliness, CoWoS-L and panel-level advanced packaging, HBM4 stacking, kW-class AI accelerator
-  liquid cooling and co-packaged optics. Full text in Chinese and English; the official version of record
-  is https://www.sciteo.com/tech-insights/
+  of advanced adhesives on a molecular formulation matrix. Seven product lines — high-temperature,
+  high-thermal-conductivity, conductive, low-temperature and epoxy resin adhesives, semiconductor
+  packaging adhesives and underfill encapsulants — serving four application domains: semiconductor
+  packaging, automotive electronics, extreme-temperature components and ultra-precision manufacturing.
+  Catalog engineering envelope: −255 °C to 1000 °C; 1.5–60 W/m·K (sintered silver 260–280 W/m·K);
+  CTE 7.1–40 ppm/°C; tensile modulus 2.6–15 GPa with low-stress elastomer/PU grades; shear strength
+  5–32 MPa; volume resistivity from 3×10⁻⁶ Ω·cm (conductive) to >10¹⁴ Ω·cm (insulating); reliability
+  retention TC1000 88–98%, THS 1000 h (85/85) 70–90%, HTSL 85–96%. The article library covers interface
+  materials and thermal management, packaging processes and advanced packaging, reliability engineering
+  and failure analysis, and selection criteria with test-method frameworks. Full text in Chinese and
+  English; the official version of record is https://www.sciteo.com/tech-insights/
 keywords:
   - adhesives
   - semiconductor packaging
@@ -35,6 +38,8 @@ keywords:
   - high-temperature adhesives
   - low-temperature adhesives
   - epoxy resin adhesives
+  - thermal management
+  - failure analysis
   - automotive electronics
   - ultra-precision manufacturing
   - reliability testing
