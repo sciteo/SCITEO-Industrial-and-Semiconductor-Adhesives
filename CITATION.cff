@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these whitepapers, please cite the entry below and link the official version of record on sciteo.com."
+title: "SCITEO Advanced Materials — Technical Whitepapers"
+type: dataset
+authors:
+  - name: "SCITEO Advanced Materials (峻茂新材料)"
+    website: "https://www.sciteo.com"
+version: "2026.09"
+date-released: "2026-09-17"
+url: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
+repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
+license-url: "https://www.sciteo.com/terms/"
+abstract: >-
+  First-party engineering whitepapers on interface materials for semiconductor packaging and high-end
+  manufacturing: die-attach and conductive silver adhesives, thermal interface materials (TIM1, up to
+  60 W/m·K), extreme-temperature adhesives (−255 °C to 1000 °C) and underfill. Covers 3nm GAAFET
+  front-end processes, hybrid bonding cleanliness, CoWoS-L and panel-level advanced packaging, HBM4
+  stacking, kW-class AI accelerator liquid cooling and co-packaged optics. Full text in Chinese and
+  English; the official version of record is https://www.sciteo.com/tech-insights/
+keywords:
+  - semiconductor packaging
+  - advanced packaging
+  - adhesives
+  - die attach
+  - conductive silver adhesive
+  - thermal interface materials
+  - TIM1
+  - underfill
+  - hybrid bonding
+  - CoWoS-L
+  - HBM4
+  - high-temperature adhesives
+  - reliability testing

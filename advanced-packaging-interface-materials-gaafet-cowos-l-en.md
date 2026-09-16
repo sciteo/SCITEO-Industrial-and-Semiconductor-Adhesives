@@ -5,7 +5,7 @@
 > 3nm GAAFET etch at 300-500°C, sub-nanometer hybrid-bond cleanliness, CoWoS-L and HBM4 CTE mismatch, TIM1 pump-out: SCITEO covers front-end to AI accelerators.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/semiconductor-process/>
-**First published:** 2026-07-04 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO technical whitepapers](../README.md)
+**First published:** 2026-07-04 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO technical whitepapers](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 
@@ -250,4 +250,4 @@ This whitepaper is first-party original content by SCITEO Advanced Materials (�
 
 > SCITEO Advanced Materials — "From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects", 2026. <https://www.sciteo.com/en/tech-insights/semiconductor-process/>
 
-Unauthorized reproduction is prohibited. 中文版：[从 3nm GAAFET 到 CoWoS-L 异构集成](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) ｜ Repository index: [SCITEO technical whitepapers](../README.md) ｜ Website: <https://www.sciteo.com/en/> ｜ Products: <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights: <https://www.sciteo.com/en/tech-insights/> ｜ Glossary: <https://www.sciteo.com/en/glossary/>
+Unauthorized reproduction is prohibited. 中文版：[从 3nm GAAFET 到 CoWoS-L 异构集成](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) ｜ Repository index: [SCITEO technical whitepapers](./README.md) ｜ Website: <https://www.sciteo.com/en/> ｜ Products: <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights: <https://www.sciteo.com/en/tech-insights/> ｜ Glossary: <https://www.sciteo.com/en/glossary/>

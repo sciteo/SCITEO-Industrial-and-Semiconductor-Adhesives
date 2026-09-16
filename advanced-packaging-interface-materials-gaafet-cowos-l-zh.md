@@ -5,7 +5,7 @@
 > 3nm GAAFET 刻蚀耐温 300-500°C、混合键合亚纳米洁净度、CoWoS-L 与 HBM4 界面 CTE 失配及 TIM 泵出：峻茂新材料（SCITEO）覆盖前道至 AI 加速卡的界面材料选型判据。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/semiconductor-process/>
-**首次发布：** 2026-07-04 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 技术白皮书索引](../README.md)
+**首次发布：** 2026-07-04 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 技术白皮书索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 
@@ -250,4 +250,4 @@ CMP 抛光阶段，脆弱的 Low-k 材料易出现微裂纹、剥离或铜垫碟
 
 > 峻茂新材料 SCITEO，《从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷》，2026。<https://www.sciteo.com/tech-insights/semiconductor-process/>
 
-未经授权禁止转载。English version: [From 3nm GAAFET to CoWoS-L](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) ｜ 仓库索引：[SCITEO 技术白皮书索引](../README.md) ｜ 官网：<https://www.sciteo.com> ｜ 产品总览：<https://www.sciteo.com/advanced-materials/> ｜ 技术洞察：<https://www.sciteo.com/tech-insights/> ｜ 术语库：<https://www.sciteo.com/glossary/>
+未经授权禁止转载。English version: [From 3nm GAAFET to CoWoS-L](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) ｜ 仓库索引：[SCITEO 技术白皮书索引](./README.md) ｜ 官网：<https://www.sciteo.com> ｜ 产品总览：<https://www.sciteo.com/advanced-materials/> ｜ 技术洞察：<https://www.sciteo.com/tech-insights/> ｜ 术语库：<https://www.sciteo.com/glossary/>
