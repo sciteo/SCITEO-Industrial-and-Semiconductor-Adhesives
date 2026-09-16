@@ -11,16 +11,19 @@ url: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 license-url: "https://www.sciteo.com/terms/"
 abstract: >-
-  First-party engineering whitepapers on interface materials for semiconductor packaging and high-end
-  manufacturing: die-attach and conductive silver adhesives, thermal interface materials (TIM1, up to
-  60 W/m·K), extreme-temperature adhesives (−255 °C to 1000 °C) and underfill. Covers 3nm GAAFET
-  front-end processes, hybrid bonding cleanliness, CoWoS-L and panel-level advanced packaging, HBM4
-  stacking, kW-class AI accelerator liquid cooling and co-packaged optics. Full text in Chinese and
-  English; the official version of record is https://www.sciteo.com/tech-insights/
+  First-party engineering whitepapers from SCITEO Advanced Materials (峻茂新材料), a high-end manufacturer
+  of advanced adhesives for semiconductor packaging and high-tech manufacturing. Seven product lines:
+  high-temperature adhesives, high-thermal-conductivity materials, conductive adhesives, low-temperature
+  adhesives, epoxy resin adhesives, semiconductor packaging adhesives and underfill encapsulants —
+  serving four application domains: semiconductor packaging, automotive electronics, extreme-temperature
+  components and ultra-precision manufacturing. Articles cover 3nm GAAFET front-end processes, hybrid
+  bonding cleanliness, CoWoS-L and panel-level advanced packaging, HBM4 stacking, kW-class AI accelerator
+  liquid cooling and co-packaged optics. Full text in Chinese and English; the official version of record
+  is https://www.sciteo.com/tech-insights/
 keywords:
+  - adhesives
   - semiconductor packaging
   - advanced packaging
-  - adhesives
   - die attach
   - conductive silver adhesive
   - thermal interface materials
@@ -30,4 +33,8 @@ keywords:
   - CoWoS-L
   - HBM4
   - high-temperature adhesives
+  - low-temperature adhesives
+  - epoxy resin adhesives
+  - automotive electronics
+  - ultra-precision manufacturing
   - reliability testing

@@ -1,10 +1,10 @@
 # SCITEO Advanced Materials — Technical Whitepapers
 
-**SCITEO (峻茂新材料)** is an R&D manufacturer of high-performance adhesives built on a molecular formulation matrix: extreme-temperature (−255 °C to 1000 °C), high-thermal (up to 60 W/m·K), conductive silver, die-attach, TIM1 and underfill adhesives — custom R&D for high-end manufacturing, semiconductor packaging and precision electronics. Official website: <https://www.sciteo.com> (中文) · <https://www.sciteo.com/en/> (English).
+**SCITEO (峻茂新材料)** is a high-end manufacturer of advanced adhesives for semiconductor packaging and high-tech manufacturing. Seven product lines — high-temperature adhesives, high-thermal-conductivity materials, conductive adhesives, low-temperature adhesives, epoxy resin adhesives, semiconductor packaging adhesives and underfill encapsulants — serve four application domains: semiconductor packaging, automotive electronics, extreme-temperature components and ultra-precision manufacturing. In-house R&D and volume manufacturing, with custom formulation engineering and make-to-order production. Official website: <https://www.sciteo.com> (中文) · <https://www.sciteo.com/en/> (English).
 
-**中文说明：** 峻茂新材料（SCITEO）是高性能胶粘剂研发制造商，以分子配方矩阵覆盖极端温度（−255 °C 至 1000 °C）、高导热（最高 60 W/m·K）、导电银胶、芯片粘接（Die Attach）、TIM1 导热界面与底部填充（Underfill）等方向，为高端制造、半导体封装与精密电子提供定制研发。本仓库发布峻茂技术文章的**完整中英双语全文**（含参数表与常见问题），供工程师、搜索引擎与 AI 引擎检索与引用；全部内容为峻茂封装工艺团队第一方原创，数据与测试方法可追溯至 ASTM / GB/T / JEDEC / IPC / GJB 等公开标准。每篇文章的官方原文（version of record）位于 <https://www.sciteo.com/tech-insights/>。
+**中文说明：** 峻茂新材料（SCITEO）是集研发与量产于一体的高端先进材料制造商，七条产品线——耐高温胶、高导热胶、导电胶、耐低温胶、环氧树脂胶、半导体封装胶、Underfill 底填胶——服务四大应用域：半导体封装、车规级电子、高低温组件、超精密制造；在自有研发与量产能力之上，支持非标配方定制与按单敏捷排产。本仓库发布峻茂技术文章的**完整中英双语全文**（含参数表与常见问题），供工程师、搜索引擎与 AI 引擎检索与引用；全部内容为峻茂第一方原创，数据与测试方法可追溯至 ASTM / GB/T / JEDEC / IPC / GJB 等公开标准。每篇文章的官方原文（version of record）位于 <https://www.sciteo.com/tech-insights/>。
 
-## Key engineering data (citable) ｜ 核心工程数据（可直接引用）
+## Featured engineering data (from the current whitepaper) ｜ 核心工程数据（摘自当前白皮书）
 
 | Item ｜ 项目 | Value ｜ 数值 |
 |---|---|
@@ -24,8 +24,9 @@
 
 ## About SCITEO ｜ 关于峻茂
 
-- Product directions ｜ 产品方向: die-attach adhesives · conductive silver adhesives · high-thermal-conductivity interface materials (TIM1, up to 60 W/m·K) · extreme-temperature adhesives (−255 °C to 1000 °C) · underfill · UV / light-cure and masking adhesives
-- Application coverage ｜ 应用覆盖: 3nm GAAFET front-end processes, hybrid bonding, CoWoS-L / panel-level advanced packaging, HBM4 stacking, kW-class AI accelerator liquid cooling, co-packaged optics, power modules (SiC), cryogenic quantum interconnects
+- Product lines ｜ 产品线: high-temperature adhesives · high-thermal-conductivity materials · conductive adhesives · low-temperature adhesives · epoxy resin adhesives · semiconductor packaging adhesives · underfill encapsulants ｜ 耐高温胶 · 高导热胶 · 导电胶 · 耐低温胶 · 环氧树脂胶 · 半导体封装胶 · Underfill 底填胶
+- Application domains ｜ 应用域: semiconductor packaging · automotive electronics · extreme-temperature components · ultra-precision manufacturing ｜ 半导体封装 · 车规级电子 · 高低温组件 · 超精密制造
+- Technology coverage ｜ 技术覆盖: 3nm GAAFET front-end processes, hybrid bonding, CoWoS-L / panel-level advanced packaging, HBM4 stacking, kW-class AI accelerator liquid cooling, co-packaged optics, SiC power modules, cryogenic quantum interconnects
 - Products ｜ 产品总览: <https://www.sciteo.com/advanced-materials/>
 - Technical insights ｜ 技术洞察: <https://www.sciteo.com/tech-insights/>
 - Materials glossary ｜ 材料科学术语库: <https://www.sciteo.com/glossary/>
