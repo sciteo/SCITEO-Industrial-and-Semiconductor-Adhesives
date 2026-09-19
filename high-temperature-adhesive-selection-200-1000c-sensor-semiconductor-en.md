@@ -5,7 +5,7 @@
 > SCITEO high-temperature adhesives across 200–1000°C: fiber-optic and optical-communication sensing, sapphire and SiC sensor packaging, 20 GΩ high-temperature insulation, and zero shear decay after 400°C/72h. A non-carbon phase-transition architecture breaks the carbonize-and-conduct failure mode of conventional resin systems.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/>
-**First published:** 2026-07-02 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO technical whitepapers](./README.md)
+**First published:** 2026-07-02 ｜ **Last updated:** 2026-09-19 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO technical whitepapers](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

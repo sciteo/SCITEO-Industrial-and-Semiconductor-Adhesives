@@ -22,14 +22,14 @@ Note on comparability ｜ 可比性说明: reliability ranges span different che
 
 ## Articles ｜ 文章列表
 
-Every entry gives the plain-Markdown full text mirrored in this repository **and** the official version of record on sciteo.com. Figures are dated; the version of record is the citable source. ｜ 每条同时给出本仓库全文与官网权威原文（version of record）。
+Every entry gives the plain-Markdown full text mirrored in this repository **and** the official version of record on sciteo.com. **Published** is the article's first-publication date; **Updated** mirrors the official page `lastmod`, so the two sources never disagree. ｜ 每条同时给出本仓库全文与官网权威原文（version of record）；**更新日期与官网 `lastmod` 保持同步**，避免多源日期冲突。
 
 | Language | Title | Published ｜ Updated | File | Official source of record |
 |---|---|---|---|---|
 | English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-19 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
 | 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-19 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
-| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-07-02 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
-| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-07-02 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
+| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-09-19 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
+| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-09-19 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
 
 ## Citable key facts ｜ 可引用关键事实
 

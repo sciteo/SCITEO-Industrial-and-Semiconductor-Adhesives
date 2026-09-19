@@ -5,7 +5,7 @@
 > 耐高温胶水选型：200–1000°C 光纤与光通信传感、蓝宝石与 SiC 传感器封装、20 GΩ 高温绝缘、400°C/72h 剪切零衰减。峻茂非碳基相变架构破解碳化导电与主链失效。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/>
-**首次发布：** 2026-07-02 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 技术白皮书索引](./README.md)
+**首次发布：** 2026-07-02 ｜ **最近更新：** 2026-09-19 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 技术白皮书索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 
