@@ -21,6 +21,9 @@
 | Die attach shear strength | 30 MPa |
 | TIM1 CTE | <20 ppm/°C |
 
+**Quote-ready ｜ 可直接引用：**
+> "The yield ceiling in AI silicon has moved from lithographic resolution to the interfaces inside the package: temporary-bond, underfill and TIM1 materials must hold both the chemical and the thermo-mechanical line at 300–500°C process temperatures and sub-nanometer cleanliness. Interface materials are now structural materials, not consumables."
+
 **In this article:** Core parameter comparison · I. Wafer front-end (FEOL) · II. Middle-end (MEOL): TSV and hybrid bonding · III. Back-end and packaging (BEOL): CoWoS-L and panel level · IV. High-compute power, liquid cooling and optical interconnect · V. Coordinates of the next packaging generation · VI. Interface material selection quick reference · VII. Conclusion · FAQ · Standards referenced · Related product lines
 
 ## Abstract

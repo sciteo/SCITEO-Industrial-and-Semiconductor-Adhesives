@@ -22,12 +22,41 @@ Note on comparability ｜ 可比性说明: reliability ranges span different che
 
 ## Articles ｜ 文章列表
 
-| Language | Title | File |
+Every entry gives the plain-Markdown full text mirrored in this repository **and** the official version of record on sciteo.com. Figures are dated; the version of record is the citable source. ｜ 每条同时给出本仓库全文与官网权威原文（version of record）。
+
+| Language | Title | Published ｜ Updated | File | Official source of record |
+|---|---|---|---|---|
+| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-19 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
+| 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-19 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
+| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-07-02 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
+| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-07-02 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
+
+## Citable key facts ｜ 可引用关键事实
+
+Self-contained figures extracted from the whitepapers above, each traceable to a named test standard. Numbers are quoted with the standard that produced them so both human reviewers and AI engines can cite them without re-deriving context. ｜ 下列自洽数值均可直接引用，并各自锚定到公开测试标准。
+
+| Fact ｜ 事实 | Value ｜ 数值 | Standard / basis ｜ 标准与依据 |
 |---|---|---|
-| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) |
-| 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) |
-| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) |
-| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) |
+| Extreme process temperature rating (chip-process adhesives) ｜ 极端制程耐温 | 300–500 °C | TGA / long-term heat aging |
+| TIM1 thermal conductivity ｜ TIM1 导热系数 | 20–40 W/m·K | ASTM D5470 |
+| Die-attach shear strength ｜ 芯片粘接剪切强度 | 30 MPa | GB/T 7124 |
+| Conductive adhesive shear strength ｜ 导电胶剪切强度 | >16 MPa | GB/T 7124 |
+| TIM1 CTE ｜ TIM1 线膨胀系数 | <20 ppm/°C | TMA |
+| Underfill Tg ｜ 底填玻璃化转变温度 | 100–155 °C | DMA |
+| Underfill CTE ｜ 底填线膨胀系数 | <30 ppm/°C (min. 13 ppm/°C) | TMA |
+| Extractable ion content ｜ 可迁移离子含量 | ≤10 ppm (Na⁺/Cl⁻) | IC ion chromatography |
+| Volume resistivity, insulating ｜ 体积电阻率（绝缘档） | >10¹⁴ Ω·cm | ASTM D257 |
+| Hybrid-bond alignment accuracy ｜ 混合键合对准精度 | <100 nm | sub-100 nm alignment |
+| Hybrid-bond surface roughness control ｜ 混合键合表面起伏控制 | 0.2 nm | CMP topography |
+| Deepest demonstrated wafer-to-wafer hybrid-bond pitch ｜ 已演示晶圆对晶圆键合节距 | 200 nm (post-bond overlay <40 nm) | imec / EV Group, ECTC |
+| CoWoS-L interposer scale in volume production ｜ CoWoS-L 量产封装规模 | 5.5 × reticle | TSMC roadmap |
+| HBM package thickness ceiling ｜ HBM 封装厚度上限 | 775 μm (raised from 720 μm) | JEDEC |
+| Extreme high-temp adhesive range ｜ 极端耐高温胶耐温覆盖 | 200–1000 °C | TGA / long-term heat aging |
+| High-temp insulation resistance at 400 °C/72 h ｜ 400°C/72h 高温绝缘电阻 | ≥20 GΩ | GB/T 1410 |
+| Shear retention at 400 °C/72 h ｜ 400°C/72h 剪切保持率 | 100 % | GB/T 7124 |
+| Shear retention after TC 1000 cycles ｜ TC 1000 次剪切保持率 | 95 % | JEDEC JESD22-A104 |
+| Shear retention after 85/85 1000 h ｜ 双85 1000h 剪切保持率 | ≥90 % | JEDEC JESD22-A101 |
+| 260 °C reflow tolerance ｜ 260°C 回流焊耐受 | ≥3 cycles ｜ ≥3 次 | J-STD-020 |
 
 ## About SCITEO ｜ 关于峻茂
 

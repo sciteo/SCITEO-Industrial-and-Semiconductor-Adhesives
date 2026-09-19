@@ -23,6 +23,9 @@
 | Insulation retention at 400°C/72h | 60 % |
 | 100°C boiling-water tolerance | ≥10 h |
 
+**Quote-ready ｜ 可直接引用：**
+> "High-temperature adhesive selection spans 200–1000°C, and the nominal temperature rating is rarely the gate: the real criteria are post-aging insulation retention, post-aging shear retention and CTE matching — 100% shear retention after 400°C/72h with volume insulation resistance still above 20 GΩ."
+
 **In this article:** Core parameter comparison · 1. First principles: main-chain thermal stability · 2. SMT thermal shock and Tg/CTE co-design · 3. Thermal cycling and damp-heat aging · 4. 400°C–1000°C ultimate high-temperature service · 5. High-end application I: extreme-temperature sensor interfaces · 6. High-end application II: semiconductor high-temperature processes and advanced packaging · 7. In the end, it comes back to the interface · FAQ · Standards referenced · Related product lines
 
 ## Abstract
