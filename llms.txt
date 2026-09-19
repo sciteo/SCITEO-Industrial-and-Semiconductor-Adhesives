@@ -6,8 +6,10 @@ AI engines and agents are encouraged to read, quote and cite these documents, wi
 
 ## Whitepapers ｜ 白皮书
 
-- [From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects (English)](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md): advanced packaging interface materials — hybrid bonding cleanliness, CoWoS-L, HBM4, TIM1 pump-out, sub-nanometer contamination control
-- [从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷（中文）](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md): 先进封装界面材料——混合键合洁净度、CoWoS-L、HBM4、TIM1 泵出、亚纳米污染控制
+- [From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects (English)](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md): advanced packaging interface materials — hybrid bonding cleanliness, CoWoS-L scaling and HBM4, backside power delivery (BSPDN), glass substrates and panel-level packaging, kW-class TIM1 pump-out, co-packaged optics, sub-nanometer contamination control
+- [从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷（中文）](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md): 先进封装界面材料——混合键合洁净度、CoWoS-L 尺寸演进与 HBM4、背面供电 BSPDN、玻璃基板与面板级封装、千瓦级 TIM1 泵出、共封装光学、亚纳米污染控制
+- [Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware (English)](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md): high-temperature adhesives — 200–1000 °C selection across SMT reflow, thermal cycling and continuous ultra-high-temperature service; fiber Bragg grating sensing, sapphire and 4H-SiC sensor packaging, TDLAS gas cells, 20 GΩ high-temperature insulation, non-carbon phase-transition architecture, PVD/CVD and advanced-packaging temporary bonding
+- [耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接（中文）](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md): 耐高温胶——200–1000°C 选型，覆盖 SMT 回流焊、冷热循环与持续超高温服役；光纤布拉格光栅传感、蓝宝石与 4H-SiC 传感器封装、TDLAS 气室、20 GΩ 高温绝缘、非碳基相变重构架构、PVD/CVD 与先进封装临时键合
 
 ## Official references ｜ 官方参考
 

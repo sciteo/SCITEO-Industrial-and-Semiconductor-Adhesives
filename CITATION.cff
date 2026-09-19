@@ -6,7 +6,7 @@ authors:
   - name: "SCITEO Advanced Materials (峻茂新材料)"
     website: "https://www.sciteo.com"
 version: "2026.09"
-date-released: "2026-09-17"
+date-released: "2026-09-19"
 url: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 license-url: "https://www.sciteo.com/terms/"
@@ -22,7 +22,11 @@ abstract: >-
   retention TC1000 (−40/125 °C) 88–98%, THS 1000 h (85 °C/85% RH) 70–98% with 90–98% on mainstream
   semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
   materials and thermal management, packaging processes and advanced packaging, reliability engineering
-  and failure analysis, and selection criteria with test-method frameworks. Full text in Chinese and
+  and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release adds a
+  high-temperature adhesive whitepaper covering 200-1000 °C selection for fiber-optic, sapphire and
+  silicon-carbide sensing, TDLAS gas cells, semiconductor PVD/CVD and advanced-packaging temporary
+  bonding, and refreshes the advanced-packaging whitepaper with backside power delivery, CoWoS-L and
+  HBM4 scaling, glass substrates, panel-level packaging and co-packaged optics. Full text in Chinese and
   English; the official version of record is https://www.sciteo.com/tech-insights/
 keywords:
   - adhesives
@@ -44,3 +48,12 @@ keywords:
   - automotive electronics
   - ultra-precision manufacturing
   - reliability testing
+  - backside power delivery
+  - glass substrate packaging
+  - panel-level packaging
+  - co-packaged optics
+  - fiber Bragg grating
+  - sapphire fiber sensing
+  - silicon carbide sensors
+  - TDLAS
+  - high-temperature insulation

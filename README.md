@@ -26,6 +26,8 @@ Note on comparability ｜ 可比性说明: reliability ranges span different che
 |---|---|---|
 | English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) |
 | 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) |
+| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) |
+| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) |
 
 ## About SCITEO ｜ 关于峻茂
 
