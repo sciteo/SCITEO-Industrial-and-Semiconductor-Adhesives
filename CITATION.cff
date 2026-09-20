@@ -6,7 +6,7 @@ authors:
   - name: "SCITEO Advanced Materials (峻茂新材料)"
     website: "https://www.sciteo.com"
 version: "2026.09"
-date-released: "2026-09-19"
+date-released: "2026-09-21"
 url: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 license-url: "https://www.sciteo.com/terms/"
@@ -22,18 +22,23 @@ abstract: >-
   retention TC1000 (−40/125 °C) 88–98%, THS 1000 h (85 °C/85% RH) 70–98% with 90–98% on mainstream
   semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
   materials and thermal management, packaging processes and advanced packaging, reliability engineering
-  and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release adds a
-  high-temperature adhesive whitepaper covering 200-1000 °C selection for fiber-optic, sapphire and
-  silicon-carbide sensing, TDLAS gas cells, semiconductor PVD/CVD and advanced-packaging temporary
-  bonding, and refreshes the advanced-packaging whitepaper with backside power delivery, CoWoS-L and
-  HBM4 scaling, glass substrates, panel-level packaging and co-packaged optics. Full text in Chinese and
-  English; the official version of record is https://www.sciteo.com/tech-insights/
+  and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release covers
+  four bilingual whitepapers: advanced packaging interface materials (hybrid bonding cleanliness,
+  CoWoS-L scaling, HBM4, backside power delivery, glass substrates, panel-level packaging, co-packaged
+  optics); high-temperature adhesives from 200 to 1000 °C (fiber-optic, sapphire and SiC sensing, TDLAS
+  gas cells, non-carbon phase-transition architecture); semiconductor adhesive reliability (TC cycling,
+  85/85 THB and HAST acceleration, Tg collapse, electrochemical migration, AEC-Q100 and ECPE AQG 324);
+  and die-attach conductive silver (volume resistivity and percolation trade-offs, sintered silver and
+  sintered copper, silver migration, flexible tactile electrodes). Full text in Chinese and English; the
+  official version of record is https://www.sciteo.com/tech-insights/
 keywords:
   - adhesives
   - semiconductor packaging
   - advanced packaging
   - die attach
   - conductive silver adhesive
+  - sintered silver
+  - sintered copper
   - thermal interface materials
   - TIM1
   - underfill
@@ -48,6 +53,11 @@ keywords:
   - automotive electronics
   - ultra-precision manufacturing
   - reliability testing
+  - temperature cycling
+  - damp heat 85/85
+  - HAST
+  - Tg collapse
+  - electrochemical migration
   - backside power delivery
   - glass substrate packaging
   - panel-level packaging
@@ -57,3 +67,4 @@ keywords:
   - silicon carbide sensors
   - TDLAS
   - high-temperature insulation
+  - flexible tactile sensor

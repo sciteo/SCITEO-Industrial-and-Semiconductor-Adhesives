@@ -5,7 +5,7 @@
 > 3nm GAAFET etch at 300–500°C, backside power delivery, sub-nanometer hybrid-bond cleanliness, CoWoS-L and HBM4 CTE mismatch, glass substrates and panel-level packaging, kW-class TIM1 pump-out and co-packaged optics: SCITEO covers the interface from wafer front end to AI accelerators.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/semiconductor-process/>
-**First published:** 2026-07-04 ｜ **Last updated:** 2026-09-19 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO technical whitepapers](./README.md)
+**First published:** 2026-07-04 ｜ **Last updated:** 2026-09-21 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO technical whitepapers](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 
@@ -45,7 +45,7 @@ The table below compares SCITEO semiconductor-process adhesives against industry
 | Underfill CTE | <30 ppm/°C (min. 13 ppm/°C) | 50-80 ppm/°C | TMA |
 | TIM1 thermal conductivity | 20-40 W/m·K | 1-3 W/m·K | ASTM D5470 |
 | Die-attach shear strength | 30 MPa | 5-10 MPa | GB/T 7124 |
-| Conductive adhesive shear strength | >16 MPa | 5-10 MPa | GB/T 7124 |
+| Conductive adhesive shear strength | 19 MPa | 5-10 MPa | GB/T 7124 |
 | Volume resistivity | >10¹⁴ Ω·cm | 10¹²-10¹³ Ω·cm | ASTM D257 |
 | TIM1 CTE | <20 ppm/°C | >50 ppm/°C | TMA |
 | Extractable ion content | ≤10 ppm (Na⁺/Cl⁻) | 30-100 ppm | IC ion chromatography |
@@ -145,7 +145,7 @@ For high-flux loads, SCITEO chip-attach thermal adhesives combine high-density f
 
 ### 4.2 Clean Signals for RF Modules and Fine Interconnects
 
-For communication basebands, RF front-end modules, and system-in-packages (SiP) that cannot survive high-temperature reflow, conventional soldering risks bridging shorts or thermal damage. SCITEO chip conductive adhesives, built on percolation theory, control tight silver-flake packing and ultra-low ionic impurity to deliver >16 MPa bond strength (GB/T 7124) while forming a low-impedance ohmic contact network. High-frequency, high-speed signals get a clean path.
+For communication basebands, RF front-end modules, and system-in-packages (SiP) that cannot survive high-temperature reflow, conventional soldering risks bridging shorts or thermal damage. SCITEO chip conductive adhesives, built on percolation theory, control tight silver-flake packing and ultra-low ionic impurity to deliver 19 MPa bond strength (GB/T 7124) while forming a low-impedance ohmic contact network. High-frequency, high-speed signals get a clean path.
 
 What actually decides whether the material reaches millimeter-wave and high-speed links is everything around the conductive skeleton. Extractable ions (Na⁺, Cl⁻) migrate along the field under humid bias and grow dendrites between fine-pitch pads, and silver itself joins electrochemical migration in ionic form. Holding ion content below 10 ppm and cure shrinkage low keeps contact resistance from drifting through thermal cycling — and at 200 Gb/s per lane, impedance drift at a single joint eventually shows up as insertion loss and eye-margin budget, which is allocated in fractions of a decibel. That is why conductive adhesives keep displacing solder in optical module COS assembly, RF front-end modules, power modules and MEMS packaging: the interconnect stops being a soldering-metallurgy problem and becomes a formulation-chemistry problem, which preserves design freedom as packages shrink and integrate heterogeneous dies.
 
@@ -186,7 +186,7 @@ The table below compresses the mechanisms above into executable selection criter
 | TSV and hybrid bonding | Bond voids from particles and organic residue | Sub-nanometer cleanliness, extractable ion content, debond residue | Temporary-bond and masking adhesives (zero-residue debonding) |
 | Flip-chip underfill | Voids, delamination, solder-joint fatigue | Tg 100-155°C, CTE <30 ppm/°C, capillary flow | Chip encapsulation adhesives (underfill) |
 | Die attach and thermal interface | TIM1 pump-out, drifting interface thermal resistance | 20-40 W/m·K, 30 MPa shear, CTE <20 ppm/°C | Chip-attach thermal adhesives (TIM1) |
-| RF and SiP interconnect | Solder bridging, thermal damage, ion migration | >16 MPa bond strength, low ion content, low impedance | Chip conductive adhesives |
+| RF and SiP interconnect | Solder bridging, thermal damage, ion migration | 19 MPa bond strength, low ion content, low impedance | Chip conductive adhesives |
 
 ## VII. Conclusion: Supply-Chain Synergy
 

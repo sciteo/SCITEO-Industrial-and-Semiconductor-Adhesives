@@ -26,8 +26,12 @@ Every entry gives the plain-Markdown full text mirrored in this repository **and
 
 | Language | Title | Published ｜ Updated | File | Official source of record |
 |---|---|---|---|---|
-| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-19 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
-| 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-19 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
+| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-21 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
+| 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-21 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
+| English | Semiconductor Adhesives: TC Cycling, 85/85 and Tg Collapse | 2026-09-12 ｜ 2026-09-20 | [Read →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-en.md) | <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/> |
+| 中文 | 半导体胶粘剂可靠性壁垒：TC 冷热循环、双85 与 Tg 塌陷下的失效机理与选型判据 | 2026-09-12 ｜ 2026-09-20 | [阅读 →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) | <https://www.sciteo.com/tech-insights/adhesives-tc-ths-reliability-failures/> |
+| English | Semiconductor-Grade Die-Attach Conductive Silver Adhesive: Adhesion, Volume Resistivity & Thermal Conductivity | 2026-07-03 ｜ 2026-09-21 | [Read →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-en.md) | <https://www.sciteo.com/en/tech-insights/die-conductive-silver-adhesive/> |
+| 中文 | 半导体级导电银胶固晶选型：粘接力、体积电阻率与导热协同解析 | 2026-07-03 ｜ 2026-09-21 | [阅读 →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-zh.md) | <https://www.sciteo.com/tech-insights/die-conductive-silver-adhesive/> |
 | English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-09-19 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
 | 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-09-19 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
 
@@ -40,7 +44,7 @@ Self-contained figures extracted from the whitepapers above, each traceable to a
 | Extreme process temperature rating (chip-process adhesives) ｜ 极端制程耐温 | 300–500 °C | TGA / long-term heat aging |
 | TIM1 thermal conductivity ｜ TIM1 导热系数 | 20–40 W/m·K | ASTM D5470 |
 | Die-attach shear strength ｜ 芯片粘接剪切强度 | 30 MPa | GB/T 7124 |
-| Conductive adhesive shear strength ｜ 导电胶剪切强度 | >16 MPa | GB/T 7124 |
+| Conductive adhesive shear strength ｜ 导电胶剪切强度 | 19 MPa | GB/T 7124 |
 | TIM1 CTE ｜ TIM1 线膨胀系数 | <20 ppm/°C | TMA |
 | Underfill Tg ｜ 底填玻璃化转变温度 | 100–155 °C | DMA |
 | Underfill CTE ｜ 底填线膨胀系数 | <30 ppm/°C (min. 13 ppm/°C) | TMA |
@@ -57,6 +61,18 @@ Self-contained figures extracted from the whitepapers above, each traceable to a
 | Shear retention after TC 1000 cycles ｜ TC 1000 次剪切保持率 | 95 % | JEDEC JESD22-A104 |
 | Shear retention after 85/85 1000 h ｜ 双85 1000h 剪切保持率 | ≥90 % | JEDEC JESD22-A101 |
 | 260 °C reflow tolerance ｜ 260°C 回流焊耐受 | ≥3 cycles ｜ ≥3 次 | J-STD-020 |
+| Shear strength after TC 1000 cycles, reliability series ｜ 可靠性系列 TC 1000 次循环后剪切强度 | ≥28 MPa | JEDEC JESD22-A104 |
+| Shear strength after 85/85 1000 h, reliability series ｜ 可靠性系列双85 1000 h 后剪切强度 | >24 MPa | JEDEC JESD22-A101 |
+| Tg retention after 85/85 ｜ 双85 后 Tg 保持 | >140 °C | DMA |
+| Volume resistivity after 85/85 ｜ 双85 后体积电阻率 | 10¹³ Ω·cm | ASTM D257 |
+| HAST equivalence ｜ HAST 等效口径 | 96 h at 130 °C/85% RH ≈ 1000 h THB at 85 °C/85% RH | JEDEC JESD22-A110 / A101 |
+| Ionic purity (Cl⁻/K⁺) ｜ 离子级纯净度 | <0.8 ppm | IC ion chromatography |
+| Die-attach conductive silver volume resistivity ｜ 固晶导电银胶体积电阻率 | 3×10⁻⁵ Ω·cm | ASTM D257 |
+| Sintered silver volume resistivity ｜ 烧结银体积电阻率 | 2×10⁻⁶ Ω·cm | four-point probe |
+| Conductive silver thermal conductivity ｜ 导电银胶导热系数 | 5–60 W/m·K | ASTM D5470 |
+| Sintered silver thermal conductivity ｜ 烧结银导热系数 | 260 W/m·K | ASTM D5470 |
+| Conductive silver Tg ｜ 导电银胶玻璃化转变温度 | 140–195 °C | DMA / DSC |
+| Conductive silver low-temperature cure ｜ 导电银胶低温固化温度 | 60–80 °C | DSC |
 
 ## About SCITEO ｜ 关于峻茂
 
