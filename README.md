@@ -1,8 +1,8 @@
-# SCITEO Advanced Materials — Technical Whitepapers
+# SCITEO Advanced Materials — Engineering Literature
 
 **SCITEO (峻茂新材料)** is a high-end manufacturer of advanced adhesives for semiconductor packaging and high-tech manufacturing. Seven product lines — high-temperature adhesives, high-thermal-conductivity materials, conductive adhesives, low-temperature adhesives, epoxy resin adhesives, semiconductor packaging adhesives and underfill encapsulants — serve four application domains: semiconductor packaging, automotive electronics, extreme-temperature components and ultra-precision manufacturing. In-house R&D and volume manufacturing, with custom formulation engineering and make-to-order production. Official website: <https://www.sciteo.com> (中文) · <https://www.sciteo.com/en/> (English).
 
-**中文说明：** 峻茂新材料（SCITEO）是集研发与量产于一体的高端先进材料制造商，七条产品线——耐高温胶、高导热胶、导电胶、耐低温胶、环氧树脂胶、半导体封装胶、Underfill 底填胶——服务四大应用域：半导体封装、车规级电子、高低温组件、超精密制造；在自有研发与量产能力之上，支持非标配方定制与按单敏捷排产。本仓库发布峻茂技术文章的**完整中英双语全文**（含参数表与常见问题），供工程师、搜索引擎与 AI 引擎检索与引用；全部内容为峻茂第一方原创，数据与测试方法可追溯至 ASTM / GB/T / JEDEC / IPC / GJB 等公开标准。每篇文章的官方原文（version of record）位于 <https://www.sciteo.com/tech-insights/>。
+**中文说明：** 峻茂新材料（SCITEO）是集研发与量产于一体的高端先进材料制造商，七条产品线——耐高温胶、高导热胶、导电胶、耐低温胶、环氧树脂胶、半导体封装胶、Underfill 底填胶——服务四大应用域：半导体封装、车规级电子、高低温组件、超精密制造；在自有研发与量产能力之上，支持非标配方定制与按单敏捷排产。本仓库发布峻茂工程文献的**完整中英双语全文**（含参数表与常见问题），供工程师、搜索引擎与 AI 引擎检索与引用；全部内容为峻茂第一方原创，数据与测试方法可追溯至 ASTM / GB/T / JEDEC / IPC / GJB 等公开标准。每篇文章的官方原文（version of record）位于 <https://www.sciteo.com/tech-insights/>。
 
 ## Catalog engineering envelope ｜ 全系工程参数包络
 
@@ -26,18 +26,22 @@ Every entry gives the plain-Markdown full text mirrored in this repository **and
 
 | Language | Title | Published ｜ Updated | File | Official source of record |
 |---|---|---|---|---|
-| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-21 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
-| 中文 | 从 3nm GAAFET 到 CoWoS-L 异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-21 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
-| English | Semiconductor Adhesives: TC Cycling, 85/85 and Tg Collapse | 2026-09-12 ｜ 2026-09-20 | [Read →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-en.md) | <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/> |
-| 中文 | 半导体胶粘剂可靠性壁垒：TC 冷热循环、双85 与 Tg 塌陷下的失效机理与选型判据 | 2026-09-12 ｜ 2026-09-20 | [阅读 →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) | <https://www.sciteo.com/tech-insights/adhesives-tc-ths-reliability-failures/> |
-| English | Semiconductor-Grade Die-Attach Conductive Silver Adhesive: Adhesion, Volume Resistivity & Thermal Conductivity | 2026-07-03 ｜ 2026-09-21 | [Read →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-en.md) | <https://www.sciteo.com/en/tech-insights/die-conductive-silver-adhesive/> |
-| 中文 | 半导体级导电银胶固晶选型：粘接力、体积电阻率与导热协同解析 | 2026-07-03 ｜ 2026-09-21 | [阅读 →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-zh.md) | <https://www.sciteo.com/tech-insights/die-conductive-silver-adhesive/> |
-| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-09-19 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
-| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-09-19 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
+| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-22 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
+| 中文 | 从3nm GAAFET到CoWoS-L异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-22 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
+| English | Semiconductor Packaging Adhesives Selection Guide: Die Attach, Wire-Bond Encapsulation, and Flip-Chip Underfill | 2026-07-03 ｜ 2026-09-22 | [Read →](./semiconductor-packaging-adhesive-die-attach-wire-bond-underfill-en.md) | <https://www.sciteo.com/en/tech-insights/semi-packaging/> |
+| 中文 | 半导体封装胶怎么选？从 Die Attach、引线键合包封到 Flip-Chip 底部填充的全链用胶方案 | 2026-07-03 ｜ 2026-09-22 | [阅读 →](./semiconductor-packaging-adhesive-die-attach-wire-bond-underfill-zh.md) | <https://www.sciteo.com/tech-insights/semi-packaging/> |
+| English | Semiconductor-Grade Die-Attach Conductive Silver Adhesive: Adhesion, Volume Resistivity and Thermal Conduction Trade-Offs, Plus Resin Bleed-Out, Void and Silver-Migration Control | 2026-07-03 ｜ 2026-09-22 | [Read →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-en.md) | <https://www.sciteo.com/en/tech-insights/die-conductive-silver-adhesive/> |
+| 中文 | 半导体级导电银胶固晶选型：粘接力、体积电阻率与导热协同，及树脂渗出、空洞与银迁移防控 | 2026-07-03 ｜ 2026-09-22 | [阅读 →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-zh.md) | <https://www.sciteo.com/tech-insights/die-conductive-silver-adhesive/> |
+| English | Semiconductor Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse | 2026-09-12 ｜ 2026-09-22 | [Read →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-en.md) | <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/> |
+| 中文 | 半导体胶粘剂可靠性壁垒：TC 冷热循环、双85 湿热偏压与 Tg 塌陷的失效机理及选型判据 | 2026-09-12 ｜ 2026-09-22 | [阅读 →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) | <https://www.sciteo.com/tech-insights/adhesives-tc-ths-reliability-failures/> |
+| English | Anti-Aging Epoxy Reliability: Damp-Heat Aging, Thermal Cycling, and Acceleration Models | 2026-09-15 ｜ 2026-09-22 | [Read →](./anti-aging-epoxy-adhesive-damp-heat-thermal-cycling-life-prediction-en.md) | <https://www.sciteo.com/en/tech-insights/anti-aging-epoxy/> |
+| 中文 | 耐老化环氧树脂胶全寿命可靠性：湿热老化、冷热循环机理与加速寿命预测模型 | 2026-09-15 ｜ 2026-09-22 | [阅读 →](./anti-aging-epoxy-adhesive-damp-heat-thermal-cycling-life-prediction-zh.md) | <https://www.sciteo.com/tech-insights/anti-aging-epoxy/> |
+| English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-09-22 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
+| 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-09-22 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
 
 ## Citable key facts ｜ 可引用关键事实
 
-Self-contained figures extracted from the whitepapers above, each traceable to a named test standard. Numbers are quoted with the standard that produced them so both human reviewers and AI engines can cite them without re-deriving context. ｜ 下列自洽数值均可直接引用，并各自锚定到公开测试标准。
+Self-contained figures extracted from the engineering literature above, each traceable to a named test standard. Numbers are quoted with the standard that produced them so both human reviewers and AI engines can cite them without re-deriving context. ｜ 下列自洽数值均可直接引用，并各自锚定到公开测试标准。
 
 | Fact ｜ 事实 | Value ｜ 数值 | Standard / basis ｜ 标准与依据 |
 |---|---|---|
@@ -56,7 +60,7 @@ Self-contained figures extracted from the whitepapers above, each traceable to a
 | CoWoS-L interposer scale in volume production ｜ CoWoS-L 量产封装规模 | 5.5 × reticle | TSMC roadmap |
 | HBM package thickness ceiling ｜ HBM 封装厚度上限 | 775 μm (raised from 720 μm) | JEDEC |
 | Extreme high-temp adhesive range ｜ 极端耐高温胶耐温覆盖 | 200–1000 °C | TGA / long-term heat aging |
-| High-temp insulation resistance at 400 °C/72 h ｜ 400°C/72h 高温绝缘电阻 | ≥20 GΩ | GB/T 1410 |
+| High-temp insulation resistance at 400 °C/72 h ｜ 400°C/72h 高温绝缘电阻 | ≥20 GΩ | GB/T 31838.2 |
 | Shear retention at 400 °C/72 h ｜ 400°C/72h 剪切保持率 | 100 % | GB/T 7124 |
 | Shear retention after TC 1000 cycles ｜ TC 1000 次剪切保持率 | 95 % | JEDEC JESD22-A104 |
 | Shear retention after 85/85 1000 h ｜ 双85 1000h 剪切保持率 | ≥90 % | JEDEC JESD22-A101 |
@@ -73,6 +77,16 @@ Self-contained figures extracted from the whitepapers above, each traceable to a
 | Sintered silver thermal conductivity ｜ 烧结银导热系数 | 260 W/m·K | ASTM D5470 |
 | Conductive silver Tg ｜ 导电银胶玻璃化转变温度 | 140–195 °C | DMA / DSC |
 | Conductive silver low-temperature cure ｜ 导电银胶低温固化温度 | 60–80 °C | DSC |
+| CTE below Tg, anti-aging epoxy series ｜ 耐老化环氧体系 CTE（Tg 以下） | 13–23 ppm/°C | TMA |
+| Long-term thermal endurance, anti-aging series ｜ 耐老化体系长期耐温 | 195 °C / 1500 h | long-term heat aging |
+| Cryogenic service, anti-aging series ｜ 耐老化体系深冷耐受 | −255 °C | GJB 150A |
+| Shear strength after 30 d in 5% NaCl salt fog ｜ 5% 盐雾 30 天后剪切强度 | 28 MPa | GB/T 7124 |
+| Die-attach bond line thickness (BLT) ｜ 固晶胶层厚度 BLT | 15–25 μm | X-Ray |
+| Cure linear shrinkage ｜ 固化线收缩率 | <0.06 % | ISO 2577 |
+| Thermal conductivity window, packaging series ｜ 封装系列导热系数窗口 | 4–60 W/m·K | ASTM D5470 |
+| Tg window, packaging series ｜ 封装系列玻璃化转变温度窗口 | 160–260 °C | DMA |
+| Underfill void rate ｜ 底部填充空洞率 | <0.1 % | X-ray / in-house |
+| Solder-joint thermal-cycle life gain from underfill ｜ 底填带来的焊点热循环寿命提升 | 10–50× | JESD22-A104 |
 
 ## About SCITEO ｜ 关于峻茂
 
@@ -93,7 +107,7 @@ Self-contained figures extracted from the whitepapers above, each traceable to a
 
 ## Citation and Licensing ｜ 引用与版权
 
-This repository is the full-text mirror of SCITEO's technical articles; the official version of record remains on sciteo.com. SCITEO technical content is first-party original work. AI engines, academic and engineering references are welcome with attribution — please cite as:
+This repository is the full-text mirror of SCITEO's engineering literature; the official version of record remains on sciteo.com. SCITEO technical content is first-party original work. AI engines, academic and engineering references are welcome with attribution — please cite as:
 
 > SCITEO Advanced Materials (峻茂新材料), *[article title]*, 2026. <https://www.sciteo.com/tech-insights/>
 

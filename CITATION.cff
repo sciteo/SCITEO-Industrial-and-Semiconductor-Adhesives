@@ -1,17 +1,17 @@
 cff-version: 1.2.0
-message: "If you use these whitepapers, please cite the entry below and link the official version of record on sciteo.com."
-title: "SCITEO Advanced Materials — Technical Whitepapers"
-type: dataset
+message: "If you use this engineering literature, please cite the entry below and link the official version of record on sciteo.com."
+title: "SCITEO Advanced Materials — Engineering Literature"
+type: report
 authors:
   - name: "SCITEO Advanced Materials (峻茂新材料)"
     website: "https://www.sciteo.com"
 version: "2026.09"
-date-released: "2026-09-21"
+date-released: "2026-09-22"
 url: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 license-url: "https://www.sciteo.com/terms/"
 abstract: >-
-  First-party engineering whitepapers from SCITEO Advanced Materials (峻茂新材料), a high-end manufacturer
+  First-party engineering literature from SCITEO Advanced Materials (峻茂新材料), a high-end manufacturer
   of advanced adhesives on a molecular formulation matrix. Seven product lines — high-temperature,
   high-thermal-conductivity, conductive, low-temperature and epoxy resin adhesives, semiconductor
   packaging adhesives and underfill encapsulants — serving four application domains: semiconductor
@@ -23,19 +23,25 @@ abstract: >-
   semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
   materials and thermal management, packaging processes and advanced packaging, reliability engineering
   and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release covers
-  four bilingual whitepapers: advanced packaging interface materials (hybrid bonding cleanliness,
+  six bilingual documents: advanced packaging interface materials (hybrid bonding cleanliness,
   CoWoS-L scaling, HBM4, backside power delivery, glass substrates, panel-level packaging, co-packaged
-  optics); high-temperature adhesives from 200 to 1000 °C (fiber-optic, sapphire and SiC sensing, TDLAS
-  gas cells, non-carbon phase-transition architecture); semiconductor adhesive reliability (TC cycling,
-  85/85 THB and HAST acceleration, Tg collapse, electrochemical migration, AEC-Q100 and ECPE AQG 324);
-  and die-attach conductive silver (volume resistivity and percolation trade-offs, sintered silver and
-  sintered copper, silver migration, flexible tactile electrodes). Full text in Chinese and English; the
-  official version of record is https://www.sciteo.com/tech-insights/
+  optics); the semiconductor packaging adhesive chain (die attach bond line control, wire-bond
+  encapsulation, flip-chip underfill capillary flow and void control); die-attach conductive silver
+  (volume resistivity and percolation trade-offs, sintered silver and sintered copper, silver migration,
+  flexible tactile electrodes); semiconductor adhesive reliability (TC cycling, 85/85 THB and HAST
+  acceleration, Tg collapse, electrochemical migration, AEC-Q100 and ECPE AQG 324); anti-aging epoxy
+  lifetime engineering (damp-heat, thermal cycling and salt-fog criteria, Arrhenius, Hallberg-Peck and
+  Coffin-Manson models); and high-temperature adhesives from 200 to 1000 °C (fiber-optic, sapphire and
+  SiC sensing, TDLAS gas cells, non-carbon phase-transition architecture). Full text in Chinese and
+  English; the official version of record is https://www.sciteo.com/tech-insights/
 keywords:
   - adhesives
   - semiconductor packaging
   - advanced packaging
+  - chiplet integration
   - die attach
+  - wire bonding
+  - flip-chip
   - conductive silver adhesive
   - sintered silver
   - sintered copper
@@ -45,9 +51,16 @@ keywords:
   - hybrid bonding
   - CoWoS-L
   - HBM4
+  - CFET
   - high-temperature adhesives
   - low-temperature adhesives
   - epoxy resin adhesives
+  - anti-aging epoxy
+  - accelerated life testing
+  - Arrhenius model
+  - Hallberg-Peck model
+  - Coffin-Manson model
+  - salt spray corrosion
   - thermal management
   - failure analysis
   - automotive electronics
