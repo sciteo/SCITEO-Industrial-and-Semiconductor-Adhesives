@@ -5,7 +5,7 @@
 > Wide-temperature adhesive selection from −70 °C to 300 °C: shear strength ≥18 MPa at −70 °C without brittle cracking, ≥95% shear retention after TC1500 and ≥90% after THS1500 damp heat, CTE below 30 ppm/°C and cure shrinkage below 0.06%, with modulus-plateau flatness and device-level validation covering edge AI, military components and optoelectronics.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/wide-temp-adhesive/>
-**First published:** 2026-06-29 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-06-29 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

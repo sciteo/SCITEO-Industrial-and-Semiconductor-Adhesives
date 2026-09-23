@@ -5,7 +5,7 @@
 > 底部填充胶（Underfill）已是结构材料：CTE 13 ppm/°C、Tg 150 °C 与 6 W/m·K 必须与空洞控制联合优化，峻茂以 CoWoS-L/HBM4 与 5μm 微凸点为尺度轴，拆解空洞、翘曲与界面附着的联合选型判据。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/underfill/>
-**首次发布：** 2026-07-01 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-01 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

@@ -5,7 +5,7 @@
 > PVD/CVD coating adhesives: 300-400 °C long-term endurance, Td5 465 °C, CVCM below 0.1%, 0% peel residue, 20-30 MPa shear on PVD metallization and 4-60 W/m·K thermal grades, covering wafer metallization, optical coatings, glass substrates and panel-level packaging.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/semi-pvd/>
-**First published:** 2026-07-01 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-01 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

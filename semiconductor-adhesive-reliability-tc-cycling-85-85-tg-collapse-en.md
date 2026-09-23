@@ -5,7 +5,7 @@
 > Semiconductor-grade adhesive reliability criteria: ≥28 MPa shear after 1,000 TC cycles, >24 MPa after 1,000 h of 85/85 damp-heat bias, Tg held above 140 °C, and a high-temperature system pushing Tg above 200 °C — rebuilt from production-line failures in HBM stacking, automotive SiC power modules, and military or deep-sea sensor potting.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/>
-**First published:** 2026-09-12 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-09-12 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 
@@ -24,7 +24,7 @@
 
 > "Only retention measured after 1,000 TC cycles (-40 °C to 125 °C) and 1,000 hours of 85/85 damp-heat bias proves the bond still holds: ≥28 MPa and >24 MPa respectively, with Tg held above 140 °C and the high-temperature system above 200 °C."
 
-**In this article:** Abstract · I. The limits of a datasheet · II. TC temperature cycling · III. Double-85 (THB/HAST) · IV. Reliability criteria in structured comparison · V. Material design · VI. Beyond the classic envelope · VII. Conclusion · FAQ · Standards referenced · Related product lines
+**In this article:** Abstract · I. The Limits of a Datasheet: Why Static Parameters Cannot Serve as Failure Evidence · II. TC Temperature Cycling: From CTE Mismatch to Creep Accumulation · III. Double-85 (THB/HAST): Electrochemical Migration and Tg Collapse · IV. Reliability Criteria in Structured Comparison · V. Material Design: Working at the Formulation Gene Level · VI. Beyond the Classic Envelope · VII. Conclusion · FAQ · Standards referenced · Related product lines
 
 ## Abstract
 

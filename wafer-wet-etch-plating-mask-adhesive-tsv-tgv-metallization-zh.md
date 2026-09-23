@@ -5,7 +5,7 @@
 > 湿法掩膜胶选型：丙酮与 IPA 连续浸泡 30 天无溶胀析出、pH 1-13 强酸强碱窗口浸泡 60 分钟不溶胀不起翘、HF 混酸与 10%–20% 硫酸中边缘侧向钻刻量 ≤2 μm、UV 固化 5 秒、剥离残胶率 0%，以高交联密度网络封住槽液毒化、刻蚀侧漏与残胶污染三条路径，覆盖 TSV 镀铜、玻璃基板 TGV 金属化与微波腔体选择性镀银。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/wet-process/>
-**首次发布：** 2026-07-02 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-02 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

@@ -5,7 +5,7 @@
 > Die-attach conductive silver selection: 3×10⁻⁵ Ω·cm volume resistivity, 5–60 W/m·K thermal conductivity (260 W/m·K sintered silver), 19 MPa gold-plated shear strength and mobile ions below 10 ppm, plus the resin bleed-out, interfacial void and silver-migration controls that decide volume yield.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/die-conductive-silver-adhesive/>
-**First published:** 2026-07-03 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-03 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

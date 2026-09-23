@@ -5,7 +5,7 @@
 > High-temp potting compound selection from SCITEO: 400°C long-term service (600°C peak) with 1.3×10¹⁰ Ω volume resistance after 300°C/48h, 2.5 W/(m·K), Tg ≥300°C and 96% shear retention after 400°C/360h, using a single-component phase-transition potting compound that stops 350°C carbonization in semiconductor equipment chambers, SiC power modules, high-temperature sensors and high-voltage drives.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/high-temp-potting/>
-**First published:** 2026-07-01 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-01 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

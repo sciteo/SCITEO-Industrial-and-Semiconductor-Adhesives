@@ -5,7 +5,7 @@
 > 半导体封装胶选型：固晶 BLT 15-25 μm、固化收缩 <0.06%、导热 4-60 W/m·K，峻茂高 Tg 环氧与 13 ppm/°C 低 CTE 底填抑制金线偏移与 HBM4 堆叠焊点疲劳，覆盖 Die Attach、引线键合包封到 Flip-Chip 底部填充的全链用胶方案。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/semi-packaging/>
-**首次发布：** 2026-07-03 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-03 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

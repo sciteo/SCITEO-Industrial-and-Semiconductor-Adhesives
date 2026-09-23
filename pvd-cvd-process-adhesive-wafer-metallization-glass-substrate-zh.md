@@ -5,7 +5,7 @@
 > PVD/CVD 镀膜用胶怎么选：300-400°C 耐高温、Td5 465°C、CVCM <0.1%、0% 残胶剥离，同时以 20-30 MPa 镀层剪切强度、4-60 W/m·K 导热区间覆盖晶圆金属化、光学镀膜、玻璃基板与面板级封装。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/semi-pvd/>
-**首次发布：** 2026-07-01 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-01 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

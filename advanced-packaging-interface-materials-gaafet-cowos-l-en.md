@@ -5,7 +5,7 @@
 > 3nm GAAFET wafer process at 300-500°C, sub-nanometer hybrid bonding, CoWoS-L and HBM4 CTE mismatch and kW-class TIM1 pump-out: SCITEO interface material criteria spanning the wafer front end to AI accelerators.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/semiconductor-process/>
-**First published:** 2026-07-04 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-04 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

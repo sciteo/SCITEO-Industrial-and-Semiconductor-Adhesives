@@ -5,7 +5,7 @@
 > 耐高低温胶水选型：-70℃ 至 300℃ 宽温域内，-70℃ 低温剪切强度 ≥18 MPa 无脆裂、加严冷热循环 TC1500 后剪切保持率 ≥95%、湿热偏置 THS1500 后 ≥90%，CTE <30 ppm/°C、固化收缩率 <0.06%，覆盖边缘 AI 主控、军工元器件与光电子器件的模量谱平坦化与 CTE 匹配验证。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/wide-temp-adhesive/>
-**首次发布：** 2026-06-29 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂可靠性测试工程团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-06-29 ｜ **作者：** 峻茂可靠性测试工程团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

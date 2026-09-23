@@ -5,7 +5,7 @@
 > 高导热胶怎么选？峻茂 2-60 W/m·K 定制档在 25 μm 键合层下把界面热阻压到 ≤0.05 °C·cm²/W，并给出增压系统功率电子、储能变流器、数据中心服务器电源与 GaN 射频功放按热流密度分级的界面约束。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/high-thermal-conductivity/>
-**首次发布：** 2026-06-29 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-06-29 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

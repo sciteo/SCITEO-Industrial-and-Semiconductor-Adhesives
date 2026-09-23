@@ -5,7 +5,7 @@
 > Semiconductor packaging adhesive selection across die attach, wire-bond encapsulation and flip-chip underfill: BLT 15-25 μm, cure shrinkage <0.06%, Tg 160-260 °C, 4-60 W/m·K conductivity and ≈13 ppm/°C underfill CTE, with SCITEO high-Tg epoxy and low-stress underfill suppressing wire sweep, micro-voids and HBM4 stack solder-joint fatigue.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/semi-packaging/>
-**First published:** 2026-07-03 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-03 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

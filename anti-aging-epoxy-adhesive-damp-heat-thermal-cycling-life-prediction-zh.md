@@ -5,7 +5,7 @@
 > 耐老化环氧树脂胶全寿命可靠性：-255°C 至 400°C 宽温域内，双85 湿热 1000 小时剪切强度保持率 ≥90%、冷热循环 1000 次保持率 ≥95%、CTE 13-23 ppm/°C、195°C/1500 小时长期耐温与 5% 盐雾 30 天后 28 MPa，以 Arrhenius、Hallberg-Peck 与 Coffin-Manson 三类模型界定外推边界。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/anti-aging-epoxy/>
-**首次发布：** 2026-09-15 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂可靠性测试工程团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-09-15 ｜ **作者：** 峻茂可靠性测试工程团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

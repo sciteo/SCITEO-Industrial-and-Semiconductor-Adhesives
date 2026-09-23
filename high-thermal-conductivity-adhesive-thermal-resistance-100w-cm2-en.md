@@ -5,7 +5,7 @@
 > SCITEO high-thermal-conductivity adhesives cover 2-60 W/m·K custom grades and hold interfacial resistance within 0.05 °C·cm²/W at a 25 μm bond line, specified by heat-flux tier for turbo system power electronics, energy storage PCS, data center server power and GaN RF amplifiers.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/high-thermal-conductivity/>
-**First published:** 2026-06-29 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-06-29 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

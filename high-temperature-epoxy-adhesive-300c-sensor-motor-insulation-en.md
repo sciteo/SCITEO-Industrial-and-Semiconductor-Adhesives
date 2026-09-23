@@ -5,7 +5,7 @@
 > 300°C-class high-temp epoxy from SCITEO: 300°C long-term endurance with a 280°C peak Tg and 7.5-48 ppm/°C CTE below Tg, ≥20 MPa lap shear on grit-blasted steel and ≥92% strength retention after 250°C × 500 h, using a step medium-temperature cure to resolve CTE mismatch in semiconductor equipment, high-temperature sensors and motor stator insulation.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/high-temp-epoxy/>
-**First published:** 2026-07-01 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-01 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

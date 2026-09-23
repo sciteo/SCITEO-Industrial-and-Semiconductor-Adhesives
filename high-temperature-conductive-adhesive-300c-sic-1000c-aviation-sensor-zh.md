@@ -5,7 +5,7 @@
 > 耐高温导电胶覆盖 300-1000°C：195°C 超高 Tg、CTE <28 ppm/°C、导热 20 W/m·K、体积电阻率 ≤4×10⁻⁵ Ω·cm 的芯片级导电银胶支撑 SiC 功率模块与 800V HVDC 算力供电，500-1000°C 陶瓷化特种导电胶接手 MWD、核电与航空传感器抗灰化互连，银烧结与铜烧结分别以 260 W/m·K 与 190 W/m·K 覆盖更高结温。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/high-temp-conductive-adhesive/>
-**首次发布：** 2026-07-02 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-02 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

@@ -5,7 +5,7 @@
 > 耐高温灌封胶选型：400°C 长期耐温（600°C 极限）、300°C/48h 体积电阻 1.3×10¹⁰ Ω、2.5 W/(m·K) 导热与 Tg ≥300°C，峻茂单组份相变重构体系化解 350°C 以上碳化导电与体积收缩，覆盖半导体设备腔体、SiC 功率模块、高温传感器与高压电驱。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/high-temp-potting/>
-**首次发布：** 2026-07-01 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-01 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

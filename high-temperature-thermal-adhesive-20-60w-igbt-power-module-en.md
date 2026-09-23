@@ -5,7 +5,7 @@
 > High-temp thermal adhesive selection across 2.5-60 W/m·K with 300-400 °C long-term endurance: 10 ppm/°C ultra-low CTE, 26 MPa room-temperature shear and ionic content below 10 ppm keep laser chips, IGBT/SiC power modules and compute-chip interfaces thermally and mechanically locked.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/high-temp-thermal-adhesive/>
-**First published:** 2026-07-02 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-02 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

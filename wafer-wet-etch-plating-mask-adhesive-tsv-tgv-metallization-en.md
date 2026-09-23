@@ -5,7 +5,7 @@
 > Wet-process mask adhesives from SCITEO: 30 days of continuous acetone and IPA immersion with no leaching, a 60-minute pH 1-13 window with no swelling or edge lift, HF mixed-acid and 10%–20% sulfuric-acid resistance holding edge undercut to ≤2 μm, a 5 s UV cure and 0% peel residue — the chemical defense layer behind TSV copper plating, glass-substrate TGV metallization and microwave cavity selective silver plating.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/wet-process/>
-**First published:** 2026-07-02 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-02 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

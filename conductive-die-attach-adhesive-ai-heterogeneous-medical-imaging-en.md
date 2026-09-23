@@ -5,7 +5,7 @@
 > Chip-grade conductive adhesive selection: 3×10⁻⁵ Ω·cm volume resistivity, CTE 26 ppm/°C, die-attach void rate below 5% (below 2% automotive), 19 MPa shear with Tg 110–195 °C, and 160–260 W/m·K pressureless sintered silver for AI heterogeneous integration, automotive SiC and medical imaging interconnects.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/conductive-die-attach/>
-**First published:** 2026-06-30 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-06-30 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

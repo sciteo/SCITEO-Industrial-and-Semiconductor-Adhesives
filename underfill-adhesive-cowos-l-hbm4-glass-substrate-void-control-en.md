@@ -5,7 +5,7 @@
 > Underfill is now a structural material: CTE 13 ppm/°C, Tg 150 °C, 6 W/m·K thermal conductivity and 32 MPa shear strength have to be optimized jointly with void control, and SCITEO frames the selection criteria for voids, warpage and interfacial adhesion from chip-level gaps through CoWoS-L/HBM4 at 5 μm micro-bump pitch to glass-based carriers.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/underfill/>
-**First published:** 2026-07-01 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-01 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

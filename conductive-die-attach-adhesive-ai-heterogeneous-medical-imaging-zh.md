@@ -5,7 +5,7 @@
 > 芯片级导电银胶选型：体积电阻率 3×10⁻⁵ Ω·cm、CTE 26 ppm/°C、固晶界面空洞率 <5%（车规 <2%），剪切强度 19 MPa 与 Tg 110-195 °C 的结构锁定，叠加无压烧结银 160-260 W/m·K 的热流通道，覆盖 AI 算力异构集成、车规 SiC 功率模块与医疗影像、精准介入的固晶互连。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/conductive-die-attach/>
-**首次发布：** 2026-06-30 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-06-30 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

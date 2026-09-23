@@ -5,7 +5,7 @@
 > 固晶导电银胶选型关键数据：3×10⁻⁵ Ω·cm 体积电阻率、5-60 W/m·K 导热（烧结银 260）、19 MPa 镀金面剪切强度、可迁移离子低于 10 ppm，并解析树脂渗出、界面空洞与银迁移三类量产缺陷的对策，以及柔性电容式压力传感器与机器人触觉电极对银浆弯折稳定性的要求。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/die-conductive-silver-adhesive/>
-**首次发布：** 2026-07-03 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-03 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

@@ -5,7 +5,7 @@
 > 耐高温导热胶的选型区间为 2.5-60 W/m·K，长期耐温覆盖 300-400°C：37W 款以 10 ppm/°C 极低 CTE、26 MPa 常温剪切强度与高于 96% 的 1000 次冷热循环保持率同时抑制界面热阻上升与热机械失配，离子含量低于 10 ppm，覆盖 IGBT/SiC 功率模块、高功率激光芯片与算力液冷界面。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/high-temp-thermal-adhesive/>
-**首次发布：** 2026-07-02 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-02 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

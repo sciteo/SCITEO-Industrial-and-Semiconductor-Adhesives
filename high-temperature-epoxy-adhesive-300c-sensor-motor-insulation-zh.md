@@ -5,7 +5,7 @@
 > 耐 300°C 高温环氧胶选型：300°C 级长期耐温、280°C 峰值 Tg 与 Tg 以下 7.5-48 ppm/°C 极低 CTE，喷砂钢表面搭接剪切强度 ≥20 MPa、250°C×500 h 热老化后强度保持率 ≥92%，以阶梯式中温固化化解半导体设备、高温传感器与电机绝缘界面的热失配。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/high-temp-epoxy/>
-**首次发布：** 2026-07-01 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-01 ｜ **作者：** 峻茂先进材料研发团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

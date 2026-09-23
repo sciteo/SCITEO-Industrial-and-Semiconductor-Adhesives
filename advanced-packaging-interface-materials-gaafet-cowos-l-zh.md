@@ -5,7 +5,7 @@
 > 3nm GAAFET 制程耐温 300-500°C、混合键合亚纳米洁净度、CoWoS-L 与 HBM4 界面 CTE 失配、千瓦级 TIM1 泵出：峻茂新材料（SCITEO）给出从晶圆前道到 AI 加速卡的界面材料选型判据。
 
 **原文出处（Source of record）：** 峻茂新材料（SCITEO）— 官方原文：<https://www.sciteo.com/tech-insights/semiconductor-process/>
-**首次发布：** 2026-07-04 ｜ **最近更新：** 2026-09-22 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
+**首次发布：** 2026-07-04 ｜ **作者：** 峻茂封装工艺团队 ｜ **仓库索引：** [SCITEO 工程文献索引](./README.md)
 
 **品牌实体（Entity）：** 峻茂新材料 SCITEO ｜ 官网 <https://www.sciteo.com> ｜ 产品总览 <https://www.sciteo.com/advanced-materials/> ｜ 技术洞察 <https://www.sciteo.com/tech-insights/> ｜ 材料科学术语库 <https://www.sciteo.com/glossary/>
 

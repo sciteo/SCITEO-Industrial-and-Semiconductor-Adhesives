@@ -5,7 +5,7 @@
 > SCITEO high-temperature adhesives across 200–1000°C: fiber-optic and optical-communication sensing, sapphire and SiC sensor packaging, 20 GΩ high-temperature insulation, and zero shear decay after 400°C/72h. A non-carbon phase-transition architecture breaks the carbonize-and-conduct failure mode of conventional resin systems.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/>
-**First published:** 2026-07-02 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-02 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 
@@ -26,7 +26,7 @@
 **Quote-ready ｜ 可直接引用：**
 > "High-temperature adhesive selection spans 200°C to 1000°C, and the nominal rating is rarely the gate: the deciding evidence is post-aging insulation retention, post-aging shear retention and CTE matching — 100% shear retention after 400°C/72h with insulation resistance still above 20 GΩ."
 
-**In this article:** Core Parameter Comparison · 1. First Principles: Main-Chain Thermal Stability Sets the Ceiling · 2. Thermal Load I: Transient Process Shock and Tg/CTE Co-Design · 3. Thermal Load II: Broadband Cycling and Damp-Heat Bias · 4. Thermal Load III: Continuous Ultra-High-Temperature Service from 400°C to 1000°C · 5. Interface Reference Points in 200–500°C High-End Sensing · 6. Semiconductor High-Temperature Processes and the Advanced-Packaging Thermo-Mechanical Interface · 7. Back to That One Layer · FAQ · Standards referenced · Related product lines
+**In this article:** Abstract · Core Parameter Comparison · 1. First Principles: Main-Chain Thermal Stability Sets the Ceiling · 2. Thermal Load I: Transient Process Shock and Tg/CTE Co-Design · 3. Thermal Load II: Broadband Cycling and Damp-Heat Bias · 4. Thermal Load III: Continuous Ultra-High-Temperature Service from 400°C to 1000°C · 5. Interface Reference Points in 200–500°C High-End Sensing · 6. Semiconductor High-Temperature Processes and the Advanced-Packaging Thermo-Mechanical Interface · 7. Back to That One Layer · FAQ · Standards referenced · Related product lines
 
 ## Abstract
 

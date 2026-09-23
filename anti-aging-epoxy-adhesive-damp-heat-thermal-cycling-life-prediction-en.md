@@ -5,7 +5,7 @@
 > Anti-aging epoxy reliability from −255°C to 400°C: ≥90% shear retention after 1,000 h at 85/85 damp heat, ≥95% after 1,000 thermal cycles, CTE 13–23 ppm/°C, 195°C/1500 h long-term endurance and 28 MPa after 30 days in 5% salt spray, with Arrhenius, Hallberg-Peck and Coffin-Manson models setting the extrapolation limits.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/anti-aging-epoxy/>
-**First published:** 2026-09-15 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-09-15 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 

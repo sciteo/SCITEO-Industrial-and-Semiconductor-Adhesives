@@ -5,7 +5,7 @@
 > SCITEO high-temperature conductive adhesives span 300°C to 1000°C: a 195°C ultra-high Tg, a sub-28 ppm/°C CTE, 20 W/m·K thermal conductivity and ≤4×10⁻⁵ Ω·cm volume resistivity for 300°C SiC and IGBT die attach and wire bonding, extending to 500-1000°C ceramicized specialty grades for MWD, nuclear and aerospace sensors, with silver sintering at 260 W/m·K and copper sintering at 190 W/m·K covering higher junction temperatures.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/high-temp-conductive-adhesive/>
-**First published:** 2026-07-02 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
+**First published:** 2026-07-02 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
 
 **Brand entity:** SCITEO Advanced Materials 峻茂新材料 ｜ Website <https://www.sciteo.com/en/> ｜ Products <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights <https://www.sciteo.com/en/tech-insights/> ｜ Materials glossary <https://www.sciteo.com/en/glossary/>
 
