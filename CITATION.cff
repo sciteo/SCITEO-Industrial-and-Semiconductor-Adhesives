@@ -23,16 +23,20 @@ abstract: >-
   semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
   materials and thermal management, packaging processes and advanced packaging, reliability engineering
   and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release covers
-  six bilingual documents: advanced packaging interface materials (hybrid bonding cleanliness,
+  sixteen bilingual documents: advanced packaging interface materials (hybrid bonding cleanliness,
   CoWoS-L scaling, HBM4, backside power delivery, glass substrates, panel-level packaging, co-packaged
   optics); the semiconductor packaging adhesive chain (die attach bond line control, wire-bond
-  encapsulation, flip-chip underfill capillary flow and void control); die-attach conductive silver
-  (volume resistivity and percolation trade-offs, sintered silver and sintered copper, silver migration,
-  flexible tactile electrodes); semiconductor adhesive reliability (TC cycling, 85/85 THB and HAST
-  acceleration, Tg collapse, electrochemical migration, AEC-Q100 and ECPE AQG 324); anti-aging epoxy
-  lifetime engineering (damp-heat, thermal cycling and salt-fog criteria, Arrhenius, Hallberg-Peck and
-  Coffin-Manson models); and high-temperature adhesives from 200 to 1000 °C (fiber-optic, sapphire and
-  SiC sensing, TDLAS gas cells, non-carbon phase-transition architecture). Full text in Chinese and
+  encapsulation, flip-chip underfill capillary flow and void control); die-attach conductive silver and
+  chip-grade conductive adhesives (volume resistivity and percolation trade-offs, sintered silver and
+  copper, silver migration, AI heterogeneous integration, medical imaging); semiconductor adhesive
+  reliability (TC cycling, 85/85 THB and HAST acceleration, Tg collapse, electrochemical migration,
+  AEC-Q100 and ECPE AQG 324); anti-aging epoxy lifetime engineering (damp-heat, thermal cycling and
+  salt-fog criteria, Arrhenius, Hallberg-Peck and Coffin-Manson models); high-temperature adhesives from
+  200 to 1000 °C (fiber-optic, sapphire and SiC sensing, TDLAS gas cells, non-carbon phase-transition
+  architecture); high-temperature conductive and thermally conductive adhesives (SiC die attach,
+  IGBT/SiC power modules and compute modules); high-temperature potting compounds and 300 °C epoxy;
+  PVD/CVD low-outgassing coating adhesives; wafer wet-etch and electroplating mask adhesives (TSV, TGV,
+  zero-residue peel); and wide-temperature bonding from −70 °C to 300 °C. Full text in Chinese and
   English; the official version of record is https://www.sciteo.com/tech-insights/
 keywords:
   - adhesives
@@ -81,3 +85,13 @@ keywords:
   - TDLAS
   - high-temperature insulation
   - flexible tactile sensor
+  - potting compound
+  - wet-etch mask
+  - peelable maskant
+  - PVD/CVD coating
+  - outgassing CVCM
+  - through-glass via
+  - wide-temperature adhesive
+  - interface thermal resistance
+  - medical device adhesive
+  - thermal shock

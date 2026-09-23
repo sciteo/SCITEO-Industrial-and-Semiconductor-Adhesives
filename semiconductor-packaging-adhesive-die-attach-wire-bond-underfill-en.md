@@ -26,7 +26,7 @@
 **Quote-ready ｜ 可直接引用：**
 > "Die-attach BLT is held to 15-25 μm, cure shrinkage below 0.06%, Tg 160-260 °C and thermal conductivity 4-60 W/m·K, while low-CTE underfill at about 13 ppm/°C lifts flip-chip thermal cycle life 10-50x and holds void rate under 0.1%."
 
-**In this article:** Key Parameter Comparison · 1. Wafer Dicing and Die Attach: The Underlying Contest of Heat, Current and Stress · 2. Post-Wire-Bond Encapsulation: Wire Sweep and Polymer Thermomechanics · 3. Flip-Chip and Advanced Heterogeneous Integration: Underfill Capillary Fluid Dynamics · 4. Advanced Semiconductor Dispensing: Engineering Judgment Beyond Adhesive Data Sheets · 5. Packaging Adhesive Selection Quick Reference · 6. Conclusion: Interfacial Science at the Microscale · FAQ · Standards referenced · Related product lines
+**In this article:** Abstract · Core Parameter Comparison · 1. Wafer Dicing and Die Attach: The Underlying Contest of Heat, Current and Stress · 2. Post-Wire-Bond Encapsulation: Wire Sweep and Polymer Thermomechanics · 3. Flip-Chip and Advanced Heterogeneous Integration: Underfill Capillary Fluid Dynamics · 4. Advanced Semiconductor Dispensing: Engineering Judgment Beyond Adhesive Data Sheets · 5. Packaging Adhesive Selection Quick Reference · 6. Conclusion: Interfacial Science at the Microscale · FAQ · Standards referenced · Related product lines
 
 ## Abstract
 
@@ -34,7 +34,7 @@ Moore's Law performance gains are migrating from silicon scaling to package arch
 
 This article deconstructs the core physical chain layer by layer: from the conductive and insulating dual-track requirements of Die Attach, through post-wire-bond encapsulation, to the capillary fluid dynamics of flip-chip underfill. Drawing on the semiconductor-grade adhesive matrix from SCITEO Advanced Materials, it establishes deployable dispensing and selection criteria covering BLT (bond-line thickness) control, capillary bleed-out suppression, micro-void elimination, and the Tg/CTE/modulus matching relationship. Those criteria all come down to one thing: thermal resistance, shrinkage and modulus have to hold at the same time, and no single parameter pushed to its limit buys yield on its own.
 
-### Key Parameter Comparison
+## Core Parameter Comparison
 
 The table below compares SCITEO semiconductor packaging adhesives against conventional industry packaging adhesives; shear strength follows the MIL-STD-883 die shear specification and linear shrinkage follows the ISO 2577 thermosetting-shrinkage method:
 

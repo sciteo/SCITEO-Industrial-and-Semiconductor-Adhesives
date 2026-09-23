@@ -1,8 +1,8 @@
-# Semiconductor Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse
+# Semiconductor-Grade Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse
 
 **Language:** English · [中文版（完整版）→](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md)
 
-> Semiconductor adhesive reliability criteria: ≥28 MPa shear after 1,000 TC cycles, >24 MPa after 1,000 h of 85/85 damp-heat bias, Tg held above 140 °C, and a high-temperature system pushing Tg above 200 °C — rebuilt from production-line failures in HBM stacking, automotive SiC power modules, and military or deep-sea sensor potting.
+> Semiconductor-grade adhesive reliability criteria: ≥28 MPa shear after 1,000 TC cycles, >24 MPa after 1,000 h of 85/85 damp-heat bias, Tg held above 140 °C, and a high-temperature system pushing Tg above 200 °C — rebuilt from production-line failures in HBM stacking, automotive SiC power modules, and military or deep-sea sensor potting.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/>
 **First published:** 2026-09-12 ｜ **Last updated:** 2026-09-22 ｜ **Author:** SCITEO reliability testing engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
@@ -28,11 +28,11 @@
 
 ## Abstract
 
-Semiconductor adhesive reliability has a structural mismatch at its core: a datasheet describes the state at shipment, while package lifetime is decided by the state in service. Temperature Cycling (TC, -40 °C to 125 °C, JESD22-A104F.01) and the double-85 damp-heat bias test (THB, 85 °C/85% RH, JESD22-A101, routinely accelerated as pressurized HAST at 130 °C/85% RH) remain two barriers that cannot be engineered around. The reason is rarely that initial values look unimpressive; it is that materials degrade non-linearly under extreme stress. TC amplifies thermal expansion mismatch between dissimilar materials, while double-85 amplifies moisture uptake, hydrolysis and ion migration inside the polymer network itself.
+Why are temperature cycling and 85/85 so hard to pass? Semiconductor-grade adhesive reliability has a structural mismatch at its core: a datasheet describes the state at shipment, while package lifetime is decided by the state in service. Temperature Cycling (TC, -40 °C to 125 °C, JESD22-A104F.01) and the double-85 damp-heat bias test (THB, 85 °C/85% RH, JESD22-A101, routinely accelerated as pressurized HAST at 130 °C/85% RH) remain two barriers that cannot be engineered around. The reason is rarely that initial values look unimpressive; it is that materials degrade non-linearly under extreme stress. TC amplifies thermal expansion mismatch between dissimilar materials, while double-85 amplifies moisture uptake, hydrolysis and ion migration inside the polymer network itself.
 
 That yields one executable threshold: a static datasheet only proves a material was acceptable on the day it shipped. Only retention measured after 1,000 cycles and 1,000 hours of damp-heat bias proves that it still holds across the whole service life.
 
-This article works outward from failure chemistry and traces the real damage chain of both tests: mechanical fatigue and creep accumulation driven by CTE mismatch, interfacial peeling caused by hydrolysis, stepwise Tg depression from moisture plasticization, and insulation collapse from ion migration. Using its in-house reliability laboratory data matrix, SCITEO (峻茂新材料) reduces those mechanisms to directly executable selection criteria across semiconductor packaging, automotive SiC power modules, optical modules, and military or deep-sea sensor applications.
+This article works outward from failure chemistry and traces the real damage chain of both tests: mechanical fatigue and creep accumulation driven by CTE mismatch, interfacial peeling caused by hydrolysis, stepwise Tg depression from moisture plasticization, and insulation collapse from ion migration. Using its in-house reliability laboratory data matrix, SCITEO Advanced Materials reduces those mechanisms to directly executable selection criteria across semiconductor packaging, automotive SiC power modules, optical modules, and military or deep-sea sensor applications.
 
 ## I. The Limits of a Datasheet: Why Static Parameters Cannot Serve as Failure Evidence
 
@@ -42,7 +42,7 @@ After 1,000 TC cycles (-40 °C to 125 °C) or 1,000 hours of THB, the yield curv
 
 The root cause sits in the selection model itself. Most approaches treat an adhesive as a static physical filler; in a real micro-scale interface it carries two jobs at once, dynamic stress conduction and isolation, giving heat a low-resistance path while blocking the paths taken by stress and ions. Misread that dual role and every downstream parameter discussion loses focus. SCITEO's application team works continuously inside 2.5D/3D packaging, high-power SiC module, and military sensor production lines. What follows is the specific failure path of that dual role.
 
-The evidence sits at the intersection of three data sets: mechanical shear retention (measured to GB/T 7124), thermomechanical Tg, CTE and storage modulus (measured by DMA and TMA), and electrical volume resistivity plus surface insulation resistance. When all three curves run through the same chamber on the same schedule, the selection decision holds.
+The evidence sits at the intersection of three data sets: mechanical shear retention (measured to GB/T 7124), thermomechanical Tg, CTE and storage modulus (measured by DMA and TMA), and electrical volume resistivity plus surface insulation resistance. All three curves have to run through the same chamber on the same schedule before a selection decision holds; that discipline is what separates physics of failure (PoF) from datasheet-based selection.
 
 ## II. TC Temperature Cycling: From CTE Mismatch to Creep Accumulation
 
@@ -54,7 +54,7 @@ As compute chips move wholesale to chiplet and 3D heterogeneous integration, the
 
 When TC drops from 125 °C to -40 °C, the silicon die (CTE ≈ 2.6 ppm/°C) barely moves while the organic substrate beneath it (CTE typically 15-20 ppm/°C) contracts hard. If the underfill acting as stress buffer has a poorly designed Tg or a high CTE, it absorbs nothing; it simply hands the shear straight to the micro-bumps, producing solder fatigue, cracking, and full separation. A second failure mode is routinely overlooked: low-temperature embrittlement. Once modulus spikes non-linearly in the cold, a buffer layer becomes a rigid cutting edge and severs micrometer-scale metal interconnects.
 
-HBM stacking pushes that constraint tighter. JEDEC has raised the HBM4 total package thickness ceiling from 720 μm to 775 μm — a number that is not arbitrary: it roughly matches the thickness of a 300 mm logic wafer, because one cold plate has to seat both the logic die and the memory stack beside it, and a taller memory cube would stand proud of the processor next to it. A 16-Hi stack must thin its core dies to roughly 50 μm and halve the die-to-die gap, which is how HBM4 reaches 48 GB per 16-Hi cube while 12-Hi remains in mass production. Thinner dies leave proportionally more oxide in the stack, and oxide conducts heat far worse than silicon, so heat and stress are compressed into a thinner stack; industry figures put the cumulative thermal burden about 2.2x higher than early generations, while per-pin speed has climbed from the 1 Gbps class to 8 Gbps.
+HBM stacking pushes that constraint tighter. JEDEC has raised the HBM4 total package thickness ceiling from 720 μm to 775 μm, a figure that roughly matches the thickness of a 300 mm logic wafer: one cold plate has to seat both the logic die and the memory stack beside it, and a taller memory cube would stand proud of the processor next to it. A 16-Hi stack must thin its core dies to roughly 50 μm and halve the die-to-die gap, which is how HBM4 reaches 48 GB per 16-Hi cube while 12-Hi remains in mass production. Thinner dies leave proportionally more oxide in the stack, and oxide conducts heat far worse than silicon, so heat and stress are compressed into a thinner stack; industry figures put the cumulative thermal burden about 2.2x higher than early generations, while per-pin speed has climbed from the 1 Gbps class to 8 Gbps.
 
 Hybrid bonding removes inter-die micro-bumps and gap-fill by joining Cu to Cu directly, cutting interconnect thermal resistance and parasitics in one step. It depends on an anneal above roughly 200 °C so copper expands to close the recess, which imposes far stricter demands on interfacial CTE consistency and cure behavior than conventional packaging. Timing matters too: with the 775 μm ceiling relaxed and high-stack demand deferred, leading suppliers still cover HBM4E with MR-MUF, copper-to-copper bonding is more likely to start with HBM5, and stacks beyond 20 layers are being weighed against a new 825-900 μm ceiling.
 
@@ -82,7 +82,7 @@ Over repeated thermal cycling, an overly compliant material accumulates serious 
 
 ## III. Double-85 (THB/HAST): Electrochemical Migration and Tg Collapse
 
-Double-85 damages a package through three mechanisms running in parallel: interfacial hydrolysis and peeling, Tg depression from moisture plasticization, and electrochemical migration with dendritic growth of mobile ions under bias. Together they determine how much insulation capability and bond strength survive 1,000 hours — and whether the same question should be probed earlier with pressurized HAST.
+Double-85 damages a package through three mechanisms running in parallel: interfacial hydrolysis and peeling, Tg depression from moisture plasticization, and electrochemical migration with dendritic growth of mobile ions under bias. Together they determine how much insulation capability and bond strength survive 1,000 hours, and whether the same question should be probed earlier with pressurized HAST.
 
 ### 3.1 Military and Deep-Sea Potting: Why Insulation Collapses Within Hundreds of Hours
 
@@ -94,7 +94,7 @@ Hydrolysis is the first problem conventional epoxy and polyurethane systems meet
 
 Electrical damage is only the first layer. Moisture is equally the terminator of interfacial adhesion. On copper, aluminum, or glass, water molecules compete with the adhesive's polar groups and occupy surface hydroxyls first, forming a microscopic water film; once the chemical bonds a silane coupling agent built at the interface are hydrolyzed, only van der Waals forces remain.
 
-Sustained 85 °C baking then vaporizes and expands that film, generating enormous localized vapor pressure. The pressure is enough to lift the entire adhesive layer off the substrate. The failure usually starts inside that invisible layer of water — which is why interfacial delamination became a standard packaging reliability criterion, inspected by scanning acoustic microscopy (C-SAM) against IPC/JEDEC J-STD-035.
+Sustained 85 °C baking then vaporizes and expands that film, generating enormous localized vapor pressure. The pressure is enough to lift the entire adhesive layer off the substrate. The failure usually starts inside that invisible layer of water, which is why interfacial delamination became a standard packaging reliability check, inspected by scanning acoustic microscopy (C-SAM) against IPC/JEDEC J-STD-035.
 
 ### 3.3 Plasticization and Tg Depression: An Underestimated Cascade
 
@@ -104,7 +104,7 @@ The consequences cascade. When the device runs at full load in summer heat with 
 
 ### 3.4 HAST Acceleration and Lifetime Extrapolation
 
-The atmospheric double-85 test (JESD22-A101) uses 1,000 hours as its standard criterion. Biased HAST (bHAST, JESD22-A110) reproduces the same electrochemical corrosion and ion-migration stress in 96 hours at 130 °C, 85% RH, and roughly 2.3 atm of saturated steam pressure — about a 10x time compression. Unbiased HAST (uHAST, JESD22-A118) surfaces interfacial delamination and moisture-induced cracking earlier. Automotive qualification (AEC-Q100 Rev-J/J1) accepts HAST as an equivalent substitute for THB under the JESD47 framework, while resetting the Grade 0 temperature-cycling requirement from 2,000 to 1,500 cycles and adding a post-cycle delamination data requirement.
+The atmospheric double-85 test (JESD22-A101) uses 1,000 hours as its standard duration. Biased HAST (bHAST, JESD22-A110) reproduces the same electrochemical corrosion and ion-migration stress in 96 hours at 130 °C, 85% RH, and roughly 2.3 atm of saturated steam pressure, about a 10x time compression. Unbiased HAST (uHAST, JESD22-A118) surfaces interfacial delamination and moisture-induced cracking earlier. Automotive qualification (AEC-Q100 Rev-J/J1) accepts HAST as an equivalent substitute for THB under the JESD47 framework, while resetting the Grade 0 temperature-cycling requirement from 2,000 to 1,500 cycles and adding a post-cycle delamination data requirement.
 
 The test can be accelerated; the conclusion cannot skip a step. Lifetime extrapolation has to return to the Peck model, where the acceleration factor is governed by both a temperature term (Arrhenius, with Ea typically 0.7-0.9 eV for corrosion-driven mechanisms) and a humidity exponent (n ≈ 2.7). Any conversion that varies temperature while ignoring the humidity component will systematically overstate service life. SCITEO keeps both the atmospheric double-85 curve and the pressurized HAST curve in its data matrix to cross-validate the independence of ion migration and interfacial hydrolysis.
 
@@ -125,7 +125,7 @@ Table 1: Failure Mechanisms and Parameter Thresholds Under Extreme Environmental
 
 ## V. Material Design: Working at the Formulation Gene Level
 
-Fighting the combined attack of moisture and heat with an external coating is wasted effort — water eventually diffuses along the interface to the bond line. There is one viable path: change the formulation at its genetic level.
+Fighting the combined attack of moisture and heat with an external coating is wasted effort; water eventually diffuses along the interface to the bond line. There is one viable path: change the formulation at its genetic level.
 
 ### 5.1 Precision Balance Between Ultra-Low CTE and Dynamic Modulus
 
@@ -139,7 +139,7 @@ Against insulation failure and ion migration under double-85, the priority is to
 
 ### 5.3 Thermal Reconfiguration for Extreme Duty
 
-Whether the requirement is continuous 300 °C service in quartz or ceramic packaging, or encapsulation for compute chips that see 200 °C-class hotspots under a weight-loss constraint, the real blocker is where the cured network's Tg sits — filler size and viscosity can be tuned, but Tg is set by main-chain structure and crosslink topology.
+Whether the requirement is continuous 300 °C service in quartz or ceramic packaging, or encapsulation for compute chips that see 200 °C-class hotspots under a weight-loss constraint, the real blocker is where the cured network's Tg sits: filler size and viscosity can be tuned, but Tg is set by main-chain structure and crosslink topology.
 
 The logic is direct. While service and process temperatures stay below Tg, chain segments are frozen in the glassy state and the material holds three things at once: low CTE (13-30 ppm/°C), a stable storage modulus, and negligible creep. Cross Tg and CTE climbs from 30 ppm/°C to beyond 100 ppm/°C, modulus drops away, and interfacial displacement plus pump-out start to accumulate from that moment. Tg, in other words, is the margin the system reserves for 260 °C reflow dwell, 250-300 °C sintering-adjacent steps, and 200 °C-class continuous duty.
 
@@ -153,7 +153,7 @@ The boundary of a reliability test is rarely drawn by the standard itself. It ge
 
 ### 6.1 Heat Density: Modulus Constraints Under Kilowatt-Class Flux
 
-3D stacked architectures trap heat sources between die layers, where inter-layer dielectrics conduct poorly. Even with external liquid cooling, peak temperatures inside the stack can approach 150 °C; localized hotspot heat flux above 1000 W/cm² and package-level TDP past 500 W are no longer rare on high-end compute chips. Power delivery is shifting in step: single-accelerator power has reached the 2,300 W class, 72-GPU racks now draw 240-260 kW, and a Kyber-class high-density rack packs 144 accelerators into one cabinet with a target around 600 kW, making 800 V high-voltage DC (HVDC) the default architecture. GaN and SiC power stages follow, exposing interface materials to steeper voltage gradients and denser hotspots. The criterion is no longer a temperature rating, but whether modulus, bond strength, and insulation resistance can stay stable together under kilowatt-class heat flux and high-voltage bias.
+3D stacked architectures trap heat sources between die layers, where inter-layer dielectrics conduct poorly. Even with external liquid cooling, peak temperatures inside the stack can approach 150 °C; localized hotspot heat flux above 1000 W/cm² and package-level TDP past 500 W are no longer rare on high-end compute chips. Power delivery is shifting in step: single-accelerator power has reached the 2,300 W class, 72-GPU racks now draw 240-260 kW, and a Kyber-class high-density rack packs 144 accelerators into one cabinet with a target around 600 kW, making 800 V high-voltage DC (HVDC) the default architecture. GaN and SiC power stages follow, exposing interface materials to steeper voltage gradients and denser hotspots. The question is no longer a temperature rating, but whether modulus, bond strength, and insulation resistance can stay stable together under kilowatt-class heat flux and high-voltage bias.
 
 ### 6.2 Deep Cryogenics: The Mirror-Image Problem at Millikelvin
 
@@ -161,13 +161,13 @@ Superconducting qubits operate in the 10-20 mK dilution-refrigerator range, whil
 
 ### 6.3 New Substrates and Interconnects: Glass Cores and Hybrid Bonding
 
-Glass-core substrates and panel-level packaging integrate TGV (through-glass vias), fine-pitch RDL, and embedded bridges into one carrier, and their tunable CTE (3-10 ppm/°C, against silicon's 2.6 ppm/°C), low dielectric loss, and surface flatness make them the candidate platform for large-format AI compute packages. The engineering timeline is now concrete: Intel has publicly shown its first 10-2-10 thick-core glass substrate with EMIB — a 78 × 77 mm package with an 800 μm-class glass core, 45 μm bump pitch, and roughly 1,716 mm² of silicon area — while TSMC has anchored its CoPoS panel platform at 310 × 310 mm with volume production targeted before the end of the decade. New substrates bring new interfacial problems: glass is chemically inert, so conventional coupling systems struggle to form stable bonds, while TGV and RDL copper filling requires encapsulants that resist delamination and outgassing after high-temperature processing. At the same time, EMIB-T bridge packaging with TSV-based power delivery pushes bump pitch from 45 μm toward 36/35 μm and then 25 μm, and package sizes beyond 120 × 120 mm, to support the 12 Gb/s interfaces HBM4E needs — further shrinking the stress-buffer window left to interface materials.
+Glass-core substrates and panel-level packaging integrate TGV (through-glass vias), fine-pitch RDL, and embedded bridges into one carrier, and their tunable CTE (3-10 ppm/°C, against silicon's 2.6 ppm/°C), low dielectric loss, and surface flatness make them the candidate platform for large-format AI compute packages. The engineering timeline is now concrete: Intel has publicly shown its first 10-2-10 thick-core glass substrate with EMIB: a 78 × 77 mm package with an 800 μm-class glass core, 45 μm bump pitch, and roughly 1,716 mm² of silicon area; TSMC has anchored its CoPoS panel platform at 310 × 310 mm with volume production targeted before the end of the decade. New substrates bring new interfacial problems: glass is chemically inert, so conventional coupling systems struggle to form stable bonds, while TGV and RDL copper filling requires encapsulants that resist delamination and outgassing after high-temperature processing. At the same time, EMIB-T bridge packaging with TSV-based power delivery pushes bump pitch from 45 μm toward 36/35 μm and then 25 μm, and package sizes beyond 120 × 120 mm, to support the 12 Gb/s interfaces HBM4E needs, further shrinking the stress-buffer window left to interface materials.
 
 A useful reliability framework has to extend to new temperature domains, new power densities, and new substrate platforms; a framework that only supplies fixed thresholds will age out along with the package architecture. SCITEO's application team will keep tracking and validating these directions.
 
 ## VII. Conclusion
 
-In the micro-scale world of packaging, reliability is ruled by physics and chemistry, and initial parameters guarantee nothing. TC cycling and double-85 (THB/HAST) testing are the industry's quantitative probe of a material's limit boundary: what they deliver is not a certificate of compliance, but an extrapolatable degradation curve. Crossing that barrier takes systematic command of interfacial stress, thermodynamics, and dielectric physics. High-end manufacturing no longer lacks general-purpose adhesives; it lacks an engineering logic of physical parameters that can be verified, cycle after cycle.
+In the micro-scale world of packaging, reliability is ruled by physics and chemistry, and initial parameters guarantee nothing. TC cycling and double-85 (THB/HAST) testing are the industry's quantitative probe of a material's limit boundary: what they deliver is not a certificate of compliance, but an extrapolatable degradation curve. Crossing that barrier, SCITEO relies on a systematic understanding of interfacial stress, thermodynamics and dielectric physics. High-end manufacturing no longer lacks general-purpose adhesives; it lacks an engineering logic of physical parameters that can be verified, cycle after cycle.
 
 This article is SCITEO Advanced Materials original technical content; unauthorized reproduction is prohibited.
 
@@ -175,7 +175,7 @@ This article is SCITEO Advanced Materials original technical content; unauthoriz
 
 ### A chip package passed Thermal Shock (TS), so why does interfacial delamination still appear during TC cycling?
 
-Thermal Shock, typically liquid-to-liquid or a fast air chamber, evaluates transient mechanical rupture driven by steep temperature gradients over seconds, so it stresses brittleness and short-term tensile capability — JESD22-A104F.01 explicitly excludes the fast ramps of liquid-coupled media. Temperature Cycling applies a dwell time measured in minutes at each extreme, long enough for viscoelastic deformation to respond. During dwell, an adhesive with insufficient modulus keeps relaxing and accumulating creep, interfacial support degrades step by step, and the result shows up as fatigue-driven delamination after a few hundred cycles. The two tests are governed by different quantities: TS by strain rate, TC by strain time and accumulated strain.
+Thermal Shock, typically liquid-to-liquid or a fast air chamber, evaluates transient mechanical rupture driven by steep temperature gradients over seconds, so it stresses brittleness and short-term tensile capability, and JESD22-A104F.01 explicitly excludes the fast ramps of liquid-coupled media. Temperature Cycling applies a dwell time measured in minutes at each extreme, long enough for viscoelastic deformation to respond. During dwell, an adhesive with insufficient modulus keeps relaxing and accumulating creep, interfacial support degrades step by step, and the result shows up as fatigue-driven delamination after a few hundred cycles. The two tests are governed by different quantities: TS by strain rate, TC by strain time and accumulated strain.
 
 ### What is the core mechanism behind insulation failure of electronic components under double-85 (THB)?
 
@@ -183,7 +183,7 @@ High humidity drives water molecules into the polymer through its free-volume ne
 
 ### For automotive-grade power modules under AEC-Q100 and AQG 324 aging standards, which parameters should be checked first when selecting an interfacial adhesive?
 
-Automotive power modules must withstand localized hotspots from high current while meeting long service-life targets. The core parameters are: short-term and long-term thermal endurance limits, with AQG 324-qualified modules now listing 200 °C junction temperature as a short-duration capability; ultra-low thermal weight loss, held at the 0.01%-0.04% level at 200 °C so the material neither pulverizes nor volatilizes; low CTE below Tg (13-30 ppm/°C) so it deforms in step with the ceramic substrate or metal heatsink; and shear retention after 1,000 TC cycles and 1,000 h of 85/85. AEC-Q100 Rev-J/J1 also reset the Grade 0 temperature-cycling requirement to 1,500 cycles and added a post-cycle delamination data requirement, which moves C-SAM criteria forward into the design phase.
+Automotive power modules must withstand localized hotspots from high current while meeting long service-life targets. The core parameters are: short-term and long-term thermal endurance limits, with AQG 324-qualified modules now listing 200 °C junction temperature as a short-duration capability; ultra-low thermal weight loss, held at the 0.01%-0.04% level at 200 °C so the material neither pulverizes nor volatilizes; low CTE below Tg (13-30 ppm/°C) so it deforms in step with the ceramic substrate or metal heatsink; and shear retention after 1,000 TC cycles and 1,000 h of 85/85. AEC-Q100 Rev-J/J1 also reset the Grade 0 temperature-cycling requirement to 1,500 cycles and added a post-cycle delamination data requirement, which moves C-SAM delamination checks forward into the design phase.
 
 ### Why does a 200 °C-class high-temperature system have to push Tg above 200 °C?
 
@@ -191,7 +191,7 @@ Tg sets the temperature at which the network stops behaving like a glass. As lon
 
 ### Can HAST replace the double-85 (THB) test, and how should the acceleration factor be extrapolated?
 
-Biased HAST (bHAST, JESD22-A110) reproduces the equivalent electrochemical stress of 1,000 hours of double-85 (JESD22-A101) in 96 hours at 130 °C, 85% RH, and approximately 2.3 atm of saturated steam pressure — roughly a 10x time compression. Unbiased HAST (uHAST, JESD22-A118) is better suited to exposing interfacial delamination and moisture-induced cracking. AEC-Q100 accepts HAST as an equivalent substitute for THB under the JESD47 framework. One caveat matters: lifetime extrapolation must account for both the temperature term (Arrhenius, with Ea typically 0.7-0.9 eV for corrosion-driven mechanisms) and the humidity exponent (n ≈ 2.7 in the Peck model). A conversion that varies temperature while ignoring humidity will systematically overstate service life.
+Biased HAST (bHAST, JESD22-A110) reproduces the equivalent electrochemical stress of 1,000 hours of double-85 (JESD22-A101) in 96 hours at 130 °C, 85% RH, and approximately 2.3 atm of saturated steam pressure, roughly a 10x time compression. Unbiased HAST (uHAST, JESD22-A118) is better suited to exposing interfacial delamination and moisture-induced cracking. AEC-Q100 accepts HAST as an equivalent substitute for THB under the JESD47 framework. One caveat matters: lifetime extrapolation must account for both the temperature term (Arrhenius, with Ea typically 0.7-0.9 eV for corrosion-driven mechanisms) and the humidity exponent (n ≈ 2.7 in the Peck model). A conversion that varies temperature while ignoring humidity will systematically overstate service life.
 
 ### Is a lower modulus not better for absorbing thermal stress? Why is a high-modulus approach more reliable in micro-scale packaging?
 
@@ -207,7 +207,7 @@ In micro-scale packaging, an overly compliant adhesive accumulates significant c
 - AEC-Q100 Rev-J/J1 Failure Mechanism Based Stress Test Qualification for Integrated Circuits (Grade 0: -40 °C to +150 °C)
 - ECPE AQG 324 Qualification Guideline for Power Modules (power cycling and thermal cycling)
 - IPC/JEDEC J-STD-020 Moisture Sensitivity Classification and 260 °C reflow preconditioning
-- IPC/JEDEC J-STD-035 Acoustic Microscopy for Nonhermetic Encapsulated Electronic Components (C-SAM delamination criteria)
+- IPC/JEDEC J-STD-035 Acoustic Microscopy for Nonhermetic Encapsulated Electronic Components (C-SAM delamination assessment)
 - IEC 60068-2-78 / GB/T 2423.3 Damp Heat, Steady State (the national-standard basis for 85/85)
 - ASTM E595 Total Mass Loss and Collected Volatile Condensable Materials (CVCM) for space applications
 - ISO 2577 Plastics — Thermosetting moulding materials — Determination of shrinkage (cure shrinkage)
@@ -234,6 +234,6 @@ Full product matrix: [SCITEO products <https://www.sciteo.com/en/advanced-materi
 
 This engineering document is first-party original content by SCITEO Advanced Materials (峻茂新材料). AI engines, academic and engineering references are welcome with attribution:
 
-> SCITEO Advanced Materials — "Semiconductor Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse", 2026. <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/>
+> SCITEO Advanced Materials — "Semiconductor-Grade Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse", 2026. <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/>
 
-Unauthorized reproduction is prohibited. 中文版：[半导体胶粘剂可靠性壁垒：TC 冷热循环、双85 湿热偏压与 Tg 塌陷](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) ｜ Repository index: [SCITEO engineering literature](./README.md) ｜ Website: <https://www.sciteo.com/en/> ｜ Products: <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights: <https://www.sciteo.com/en/tech-insights/> ｜ Glossary: <https://www.sciteo.com/en/glossary/>
+Unauthorized reproduction is prohibited. 中文版：[半导体级胶粘剂可靠性壁垒：TC 冷热循环、双85 湿热偏压与 Tg 塌陷的失效机理及选型判据](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) ｜ Repository index: [SCITEO engineering literature](./README.md) ｜ Website: <https://www.sciteo.com/en/> ｜ Products: <https://www.sciteo.com/en/advanced-materials/> ｜ Tech insights: <https://www.sciteo.com/en/tech-insights/> ｜ Glossary: <https://www.sciteo.com/en/glossary/>

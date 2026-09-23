@@ -26,18 +26,38 @@ Every entry gives the plain-Markdown full text mirrored in this repository **and
 
 | Language | Title | Published ｜ Updated | File | Official source of record |
 |---|---|---|---|---|
-| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-22 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
-| 中文 | 从3nm GAAFET到CoWoS-L异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-22 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
-| English | Semiconductor Packaging Adhesives Selection Guide: Die Attach, Wire-Bond Encapsulation, and Flip-Chip Underfill | 2026-07-03 ｜ 2026-09-22 | [Read →](./semiconductor-packaging-adhesive-die-attach-wire-bond-underfill-en.md) | <https://www.sciteo.com/en/tech-insights/semi-packaging/> |
-| 中文 | 半导体封装胶怎么选？从 Die Attach、引线键合包封到 Flip-Chip 底部填充的全链用胶方案 | 2026-07-03 ｜ 2026-09-22 | [阅读 →](./semiconductor-packaging-adhesive-die-attach-wire-bond-underfill-zh.md) | <https://www.sciteo.com/tech-insights/semi-packaging/> |
-| English | Semiconductor-Grade Die-Attach Conductive Silver Adhesive: Adhesion, Volume Resistivity and Thermal Conduction Trade-Offs, Plus Resin Bleed-Out, Void and Silver-Migration Control | 2026-07-03 ｜ 2026-09-22 | [Read →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-en.md) | <https://www.sciteo.com/en/tech-insights/die-conductive-silver-adhesive/> |
-| 中文 | 半导体级导电银胶固晶选型：粘接力、体积电阻率与导热协同，及树脂渗出、空洞与银迁移防控 | 2026-07-03 ｜ 2026-09-22 | [阅读 →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-zh.md) | <https://www.sciteo.com/tech-insights/die-conductive-silver-adhesive/> |
-| English | Semiconductor Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse | 2026-09-12 ｜ 2026-09-22 | [Read →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-en.md) | <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/> |
-| 中文 | 半导体胶粘剂可靠性壁垒：TC 冷热循环、双85 湿热偏压与 Tg 塌陷的失效机理及选型判据 | 2026-09-12 ｜ 2026-09-22 | [阅读 →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) | <https://www.sciteo.com/tech-insights/adhesives-tc-ths-reliability-failures/> |
 | English | Anti-Aging Epoxy Reliability: Damp-Heat Aging, Thermal Cycling, and Acceleration Models | 2026-09-15 ｜ 2026-09-22 | [Read →](./anti-aging-epoxy-adhesive-damp-heat-thermal-cycling-life-prediction-en.md) | <https://www.sciteo.com/en/tech-insights/anti-aging-epoxy/> |
 | 中文 | 耐老化环氧树脂胶全寿命可靠性：湿热老化、冷热循环机理与加速寿命预测模型 | 2026-09-15 ｜ 2026-09-22 | [阅读 →](./anti-aging-epoxy-adhesive-damp-heat-thermal-cycling-life-prediction-zh.md) | <https://www.sciteo.com/tech-insights/anti-aging-epoxy/> |
+| English | Semiconductor-Grade Adhesives: TC Cycling, 85/85 Damp Heat and Tg Collapse | 2026-09-12 ｜ 2026-09-22 | [Read →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-en.md) | <https://www.sciteo.com/en/tech-insights/adhesives-tc-ths-reliability-failures/> |
+| 中文 | 半导体级胶粘剂可靠性壁垒：TC 冷热循环、双85 湿热偏压与 Tg 塌陷的失效机理及选型判据 | 2026-09-12 ｜ 2026-09-22 | [阅读 →](./semiconductor-adhesive-reliability-tc-cycling-85-85-tg-collapse-zh.md) | <https://www.sciteo.com/tech-insights/adhesives-tc-ths-reliability-failures/> |
+| English | From 3nm GAAFET to CoWoS-L: Thermal Stress, Hybrid-Bond Cleanliness and Interface Material Defects | 2026-07-04 ｜ 2026-09-22 | [Read →](./advanced-packaging-interface-materials-gaafet-cowos-l-en.md) | <https://www.sciteo.com/en/tech-insights/semiconductor-process/> |
+| 中文 | 从3nm GAAFET到CoWoS-L异构集成：热应力、混合键合洁净度与界面材料工艺缺陷 | 2026-07-04 ｜ 2026-09-22 | [阅读 →](./advanced-packaging-interface-materials-gaafet-cowos-l-zh.md) | <https://www.sciteo.com/tech-insights/semiconductor-process/> |
+| English | Semiconductor-Grade Die-Attach Conductive Silver Adhesive: Adhesion, Volume Resistivity and Thermal Conduction Trade-Offs, Plus Resin Bleed-Out, Void and Silver-Migration Control | 2026-07-03 ｜ 2026-09-22 | [Read →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-en.md) | <https://www.sciteo.com/en/tech-insights/die-conductive-silver-adhesive/> |
+| 中文 | 半导体级导电银胶固晶选型：粘接力、体积电阻率与导热协同，及树脂渗出、空洞与银迁移防控 | 2026-07-03 ｜ 2026-09-22 | [阅读 →](./die-attach-conductive-silver-adhesive-resistivity-thermal-sintering-zh.md) | <https://www.sciteo.com/tech-insights/die-conductive-silver-adhesive/> |
+| English | Semiconductor Packaging Adhesives Selection Guide: Die Attach, Wire-Bond Encapsulation, and Flip-Chip Underfill | 2026-07-03 ｜ 2026-09-22 | [Read →](./semiconductor-packaging-adhesive-die-attach-wire-bond-underfill-en.md) | <https://www.sciteo.com/en/tech-insights/semi-packaging/> |
+| 中文 | 半导体封装胶怎么选？从 Die Attach、引线键合包封到 Flip-Chip 底部填充的全链用胶方案 | 2026-07-03 ｜ 2026-09-22 | [阅读 →](./semiconductor-packaging-adhesive-die-attach-wire-bond-underfill-zh.md) | <https://www.sciteo.com/tech-insights/semi-packaging/> |
 | English | Selecting High-Temperature Adhesives: From 200°C Fiber-Optic Sensing to 500°C Sapphire/SiC Sensors and 1000°C Semiconductor Hardware | 2026-07-02 ｜ 2026-09-22 | [Read →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-en.md) | <https://www.sciteo.com/en/tech-insights/extreme-high-temp-adhesive/> |
 | 中文 | 耐高温胶水怎么选？200–1000°C 光通信、蓝宝石传感器与半导体高温制程粘接 | 2026-07-02 ｜ 2026-09-22 | [阅读 →](./high-temperature-adhesive-selection-200-1000c-sensor-semiconductor-zh.md) | <https://www.sciteo.com/tech-insights/extreme-high-temp-adhesive/> |
+| English | High-Temp Conductive Adhesive: 300°C SiC Die Attach to 1000°C Sensors | 2026-07-02 ｜ 2026-09-22 | [Read →](./high-temperature-conductive-adhesive-300c-sic-1000c-aviation-sensor-en.md) | <https://www.sciteo.com/en/tech-insights/high-temp-conductive-adhesive/> |
+| 中文 | 耐高温导电胶怎么选？从 300°C SiC 芯片封装到 1000°C 航空传感器的导电互连逻辑 | 2026-07-02 ｜ 2026-09-22 | [阅读 →](./high-temperature-conductive-adhesive-300c-sic-1000c-aviation-sensor-zh.md) | <https://www.sciteo.com/tech-insights/high-temp-conductive-adhesive/> |
+| English | High-Temp Thermal Adhesive: 20-60 W/m·K TIMs for Laser Chips, IGBT/SiC and Compute Modules | 2026-07-02 ｜ 2026-09-22 | [Read →](./high-temperature-thermal-adhesive-20-60w-igbt-power-module-en.md) | <https://www.sciteo.com/en/tech-insights/high-temp-thermal-adhesive/> |
+| 中文 | 耐高温导热胶怎么选？20-60 W/m·K 高导热与 400°C IGBT 功率模块、算力芯片界面热管理解析 | 2026-07-02 ｜ 2026-09-22 | [阅读 →](./high-temperature-thermal-adhesive-20-60w-igbt-power-module-zh.md) | <https://www.sciteo.com/tech-insights/high-temp-thermal-adhesive/> |
+| English | Wet-Etch and Electroplating Mask Adhesives: Chemical Defense for TSV Plating, Glass-Substrate TGV and Microwave Cavity Metallization | 2026-07-02 ｜ 2026-09-22 | [Read →](./wafer-wet-etch-plating-mask-adhesive-tsv-tgv-metallization-en.md) | <https://www.sciteo.com/en/tech-insights/wet-process/> |
+| 中文 | 晶圆湿法刻蚀与电镀掩膜胶选型：TSV 镀铜、玻璃基板 TGV 与微波腔体金属化的化学防御 | 2026-07-02 ｜ 2026-09-22 | [阅读 →](./wafer-wet-etch-plating-mask-adhesive-tsv-tgv-metallization-zh.md) | <https://www.sciteo.com/tech-insights/wet-process/> |
+| English | High-Temp Potting Compound Selection: Phase-Transition Insulation and Extreme Sealing for 400°C+ Sensors, Semiconductor Equipment and High-Voltage Drive Units | 2026-07-01 ｜ 2026-09-22 | [Read →](./high-temperature-potting-400c-sensor-high-voltage-motor-en.md) | <https://www.sciteo.com/en/tech-insights/high-temp-potting/> |
+| 中文 | 耐高温灌封胶怎么选？400°C 高温传感器、半导体设备与高压电驱的灌封密封解析 | 2026-07-01 ｜ 2026-09-22 | [阅读 →](./high-temperature-potting-400c-sensor-high-voltage-motor-zh.md) | <https://www.sciteo.com/tech-insights/high-temp-potting/> |
+| English | How to Select 300°C High-Temp Epoxy: Tg, CTE, and Interface Reliability | 2026-07-01 ｜ 2026-09-22 | [Read →](./high-temperature-epoxy-adhesive-300c-sensor-motor-insulation-en.md) | <https://www.sciteo.com/en/tech-insights/high-temp-epoxy/> |
+| 中文 | 耐 300°C 高温环氧树脂胶怎么选？精密传感器、半导体设备与高端电机绝缘的耐热粘接密封解析 | 2026-07-01 ｜ 2026-09-22 | [阅读 →](./high-temperature-epoxy-adhesive-300c-sensor-motor-insulation-zh.md) | <https://www.sciteo.com/tech-insights/high-temp-epoxy/> |
+| English | PVD/CVD Coating Adhesives: High-Temp and Low-Outgassing Selection Criteria for Wafer Metallization, Optical Coating and Glass Substrate Packaging | 2026-07-01 ｜ 2026-09-22 | [Read →](./pvd-cvd-process-adhesive-wafer-metallization-glass-substrate-en.md) | <https://www.sciteo.com/en/tech-insights/semi-pvd/> |
+| 中文 | PVD/CVD 镀膜工艺用胶怎么选？晶圆金属化、光学镀膜与玻璃基板封装的耐高温与低释气判据 | 2026-07-01 ｜ 2026-09-22 | [阅读 →](./pvd-cvd-process-adhesive-wafer-metallization-glass-substrate-zh.md) | <https://www.sciteo.com/tech-insights/semi-pvd/> |
+| English | How to Select Underfill: Void & Warpage Control from Chip-Level Packaging to Glass-Based Carriers | 2026-07-01 ｜ 2026-09-22 | [Read →](./underfill-adhesive-cowos-l-hbm4-glass-substrate-void-control-en.md) | <https://www.sciteo.com/en/tech-insights/underfill/> |
+| 中文 | 底部填充胶 (Underfill) 怎么选？从芯片级封装到玻璃基载板的空洞与应力控制 | 2026-07-01 ｜ 2026-09-22 | [阅读 →](./underfill-adhesive-cowos-l-hbm4-glass-substrate-void-control-zh.md) | <https://www.sciteo.com/tech-insights/underfill/> |
+| English | Chip-Grade Conductive Adhesive: AI Packaging, Medical Imaging and Precision Intervention | 2026-06-30 ｜ 2026-09-22 | [Read →](./conductive-die-attach-adhesive-ai-heterogeneous-medical-imaging-en.md) | <https://www.sciteo.com/en/tech-insights/conductive-die-attach/> |
+| 中文 | 芯片级导电银胶怎么选？从 AI 算力异构集成到高端医疗影像与精准介入的界面互连判据 | 2026-06-30 ｜ 2026-09-22 | [阅读 →](./conductive-die-attach-adhesive-ai-heterogeneous-medical-imaging-zh.md) | <https://www.sciteo.com/tech-insights/conductive-die-attach/> |
+| English | High-Thermal-Conductivity Adhesives: Interface Requirements by Heat Flux | 2026-06-29 ｜ 2026-09-22 | [Read →](./high-thermal-conductivity-adhesive-thermal-resistance-100w-cm2-en.md) | <https://www.sciteo.com/en/tech-insights/high-thermal-conductivity/> |
+| 中文 | 高导热胶怎么选？从界面热阻口径到 100 W/cm² 级热流密度散热约束 | 2026-06-29 ｜ 2026-09-22 | [阅读 →](./high-thermal-conductivity-adhesive-thermal-resistance-100w-cm2-zh.md) | <https://www.sciteo.com/tech-insights/high-thermal-conductivity/> |
+| English | Wide-Temperature Adhesives: −70 °C to 300 °C Bonding, CTE Matching and Device-Level Validation | 2026-06-29 ｜ 2026-09-22 | [Read →](./wide-temperature-adhesive-70c-300c-cte-matching-thermal-shock-en.md) | <https://www.sciteo.com/en/tech-insights/wide-temp-adhesive/> |
+| 中文 | 耐高低温胶水怎么选？-70℃ 到 300℃ 宽温域粘接的 CTE 匹配、冷热冲击与器件级验证 | 2026-06-29 ｜ 2026-09-22 | [阅读 →](./wide-temperature-adhesive-70c-300c-cte-matching-thermal-shock-zh.md) | <https://www.sciteo.com/tech-insights/wide-temp-adhesive/> |
 
 ## Citable key facts ｜ 可引用关键事实
 
@@ -87,6 +107,32 @@ Self-contained figures extracted from the engineering literature above, each tra
 | Tg window, packaging series ｜ 封装系列玻璃化转变温度窗口 | 160–260 °C | DMA |
 | Underfill void rate ｜ 底部填充空洞率 | <0.1 % | X-ray / in-house |
 | Solder-joint thermal-cycle life gain from underfill ｜ 底填带来的焊点热循环寿命提升 | 10–50× | JESD22-A104 |
+| High-temp conductive series volume resistivity ｜ 耐高温导电胶体积电阻率 | ≤4×10⁻⁵ Ω·cm | four-point probe |
+| SiC MOSFET junction temperature supported ｜ SiC MOSFET 可支撑结温 | 175–205 °C | device-level validation |
+| Sintered copper thermal conductivity ｜ 铜烧结导热系数 | 190 W/m·K | ASTM D5470 |
+| Thermal series 37 W grade CTE ｜ 导热系列 37W 档 CTE | 10 ppm/°C | TMA |
+| Thermal series Td5 ｜ 导热系列 5% 热失重温度 Td5 | 425 °C | TGA |
+| Mask undercut in HF mixed acid ｜ 掩膜在 HF 混酸中的侧向钻刻量 | ≤2 μm | in-house |
+| Peelable-mask residue rate ｜ 可剥掩膜剥离残胶率 | 0 % | visual / microscopy |
+| Peelable-mask elongation at break ｜ 可剥掩膜断裂伸长率 | 210–300 % | ASTM D412 |
+| Potting Tg ｜ 灌封胶玻璃化转变温度 | ≥300 °C | DMA |
+| Shear retention after 400 °C/360 h ｜ 400°C/360h 剪切保持率 | 96 % | GB/T 7124 |
+| Volume resistance after 300 °C/48 h ｜ 300°C/48h 体积电阻 | 1.3×10¹⁰ Ω | in-house |
+| Potting CVCM ｜ 灌封胶可凝挥发物 CVCM | <0.01 % | ASTM E595 |
+| Peak Tg, 2K high-temp epoxy ｜ 双组分高温环氧峰值 Tg | 280 °C | DMA |
+| Strength retention after 250 °C × 500 h ｜ 250°C×500h 强度保持率 | ≥92 % | long-term heat aging |
+| Td5, PVD/CVD series ｜ PVD/CVD 系列 5% 热失重温度 Td5 | 465 °C | TGA |
+| CVCM, PVD/CVD series ｜ PVD/CVD 系列可凝挥发物 CVCM | <0.1 % | ASTM E595 |
+| UV mask cure time ｜ UV 掩膜固化时间 | 3–5 s | in-house |
+| Underfill storage modulus ｜ 底填储能模量 | 8–11 GPa | DMA |
+| Pressureless sintered-silver volume resistivity ｜ 无压烧结银体积电阻率 | 3×10⁻⁶ Ω·cm | four-point probe |
+| Die-attach void rate, industrial / automotive ｜ 固晶空洞率（工业 / 车规） | <5 % / <2 % | C-SAM |
+| Shear retention after TC500 (−40/125 °C) ｜ TC500（-40/125°C）后剪切保持率 | 84 % | JESD22-A104 |
+| Interface thermal resistance at 25 μm bondline ｜ 25 μm 键合层界面热阻 | ≤0.05 °C·cm²/W | ASTM D5470 |
+| Structural-grade shear strength ｜ 结构级剪切强度 | 22–36 MPa | GB/T 7124 |
+| Thermal-resistance drift after TC1000 ｜ TC1000 后界面热阻漂移 | ≤5 % | JESD22-A104 |
+| Wide-temperature lower limit ｜ 宽温域低温工作下限 | −70 °C (−55 °C general) | GJB 150A |
+| Retention after TC1500 / THS1500 ｜ TC1500 / THS1500 后保持率 | ≥95 % / ≥90 % | JESD22-A104 / A101 |
 
 ## About SCITEO ｜ 关于峻茂
 

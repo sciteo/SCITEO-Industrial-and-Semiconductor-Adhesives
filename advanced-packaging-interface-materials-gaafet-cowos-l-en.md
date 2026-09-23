@@ -24,7 +24,7 @@
 **Quote-ready ｜ 可直接引用：**
 > "The yield ceiling in AI silicon has moved from lithographic resolution to the interfaces inside the package: temporary-bond, underfill and TIM1 materials must hold the chemical and thermo-mechanical line at 300-500°C process temperatures and sub-nanometer cleanliness."
 
-**In this article:** Core parameter comparison · I. Wafer front-end (FEOL) · II. Middle-end (MEOL): TSV and hybrid bonding · III. Back-end and packaging (BEOL): CoWoS-L and panel level · IV. High-compute power, liquid cooling and optical interconnect · V. Coordinates of the next packaging generation · VI. Interface material selection quick reference · VII. Conclusion · FAQ · Standards referenced · Related product lines
+**In this article:** Abstract · Core Parameter Comparison · I. Wafer Front-End (FEOL): 3nm GAAFET, Backside Power Delivery and the Material Temperature Ceiling in High-Aspect-Ratio Etching · II. Middle-End (MEOL): TSV, Hybrid Bonding and Sub-Nanometer Cleanliness · III. Back-End Process and Packaging (BEOL): From RC Delay to CoWoS-L and Panel-Level Packaging · IV. High-Compute Power, Liquid Cooling and Optical Interconnect · V. A Few Coordinates of the Next Packaging Generation · VI. Interface Material Selection Quick Reference · VII. Conclusion: Supply-Chain Synergy · FAQ · Standards referenced · Related product lines
 
 ## Abstract
 
