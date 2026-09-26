@@ -16,27 +16,35 @@ abstract: >-
   high-thermal-conductivity, conductive, low-temperature and epoxy resin adhesives, semiconductor
   packaging adhesives and underfill encapsulants — serving four application domains: semiconductor
   packaging, automotive electronics, extreme-temperature components and ultra-precision manufacturing.
-  Catalog engineering envelope: −255 °C to 1000 °C; 1.5–60 W/m·K (sintered silver 260–280 W/m·K);
+  Catalog engineering envelope: −255 °C to 1000 °C; 1.5–60 W/m·K (sintered silver up to 280 W/m·K);
   CTE 7.1–40 ppm/°C; tensile modulus 2.6–15 GPa with low-stress elastomer/PU grades; shear strength
   5–32 MPa; volume resistivity from 3×10⁻⁶ Ω·cm (conductive) to >10¹⁴ Ω·cm (insulating); reliability
   retention TC1000 (−40/125 °C) 88–98%, THS 1000 h (85 °C/85% RH) 70–98% with 90–98% on mainstream
   semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
   materials and thermal management, packaging processes and advanced packaging, reliability engineering
   and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release covers
-  sixteen bilingual documents: advanced packaging interface materials (hybrid bonding cleanliness,
+  twenty-seven bilingual documents: advanced packaging interface materials (hybrid bonding cleanliness,
   CoWoS-L scaling, HBM4, backside power delivery, glass substrates, panel-level packaging, co-packaged
   optics); the semiconductor packaging adhesive chain (die attach bond line control, wire-bond
-  encapsulation, flip-chip underfill capillary flow and void control); die-attach conductive silver and
-  chip-grade conductive adhesives (volume resistivity and percolation trade-offs, sintered silver and
-  copper, silver migration, AI heterogeneous integration, medical imaging); semiconductor adhesive
-  reliability (TC cycling, 85/85 THB and HAST acceleration, Tg collapse, electrochemical migration,
-  AEC-Q100 and ECPE AQG 324); anti-aging epoxy lifetime engineering (damp-heat, thermal cycling and
-  salt-fog criteria, Arrhenius, Hallberg-Peck and Coffin-Manson models); high-temperature adhesives from
-  200 to 1000 °C (fiber-optic, sapphire and SiC sensing, TDLAS gas cells, non-carbon phase-transition
-  architecture); high-temperature conductive and thermally conductive adhesives (SiC die attach,
-  IGBT/SiC power modules and compute modules); high-temperature potting compounds and 300 °C epoxy;
-  PVD/CVD low-outgassing coating adhesives; wafer wet-etch and electroplating mask adhesives (TSV, TGV,
-  zero-residue peel); and wide-temperature bonding from −70 °C to 300 °C. Full text in Chinese and
+  encapsulation, flip-chip underfill capillary flow and void control); SMT assembly defect physics
+  (stencil area ratio, 008004 micro-component placement, dynamic warpage, Head-in-Pillow, vacuum reflow
+  void suppression, 3D SPI/AOI/AXI); die-attach conductive silver and chip-grade conductive adhesives
+  (volume resistivity and percolation trade-offs, sintered silver and copper, silver migration, AI
+  heterogeneous integration, medical imaging); semiconductor adhesive reliability (TC cycling, 85/85 THB
+  and HAST acceleration, Tg collapse, electrochemical migration, AEC-Q100 and ECPE AQG 324); anti-aging
+  epoxy lifetime engineering (damp-heat, thermal cycling and salt-fog criteria, Arrhenius, Hallberg-Peck
+  and Coffin-Manson models); high-temperature adhesives from 200 to 1000 °C (fiber-optic, sapphire and
+  SiC sensing, TDLAS gas cells, non-carbon phase-transition architecture, 300–500 °C failure physics for
+  sensors and quantum measurement); high-temperature conductive and thermally conductive adhesives (SiC
+  die attach, IGBT/SiC power modules and compute modules); high-temperature potting compounds and 300 °C
+  epoxy; PVD/CVD low-outgassing coating adhesives; wafer wet-etch and electroplating mask adhesives (TSV,
+  TGV, zero-residue peel); wide-temperature bonding from −70 °C to 300 °C; cryogenic bonding from −55 °C
+  to −255 °C (LNG, superconducting magnets, quantum computing); low-temperature curing and low-temperature
+  cure conductive adhesives (60–80 °C thermal budget, latent cure, cold chain); module-level interface
+  materials (AI compute, humanoid-robot joints, RF modules); high-density PCBA encapsulants (SiP, underfill,
+  piezo jet dispensing); UV-cure adhesives (active alignment, black deep cure, dual cure); CIS image sensor
+  packaging (TSV bonding, AA active alignment, hermeticity); thermal silicone for sealed structures; and
+  connector and harness potting (GJB 150 thermal shock, helium leak hermeticity). Full text in Chinese and
   English; the official version of record is https://www.sciteo.com/tech-insights/
 keywords:
   - adhesives
@@ -95,3 +103,21 @@ keywords:
   - interface thermal resistance
   - medical device adhesive
   - thermal shock
+  - SMT assembly
+  - solder void
+  - head-in-pillow
+  - stencil printing
+  - vacuum reflow
+  - AOI AXI inspection
+  - low-temperature curing
+  - latent cure
+  - cryogenic adhesive
+  - liquid nitrogen bonding
+  - image sensor packaging
+  - active alignment
+  - UV curing adhesive
+  - thermal silicone
+  - module packaging
+  - humanoid robot joint
+  - connector potting
+  - hermeticity

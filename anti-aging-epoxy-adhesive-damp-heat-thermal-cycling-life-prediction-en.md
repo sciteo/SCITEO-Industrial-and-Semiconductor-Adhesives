@@ -189,7 +189,7 @@ Thermal cycling does not follow Arrhenius; it follows fatigue. Coffin-Manson rel
 
 ### Do epoxy adhesives embrittle and fail in cryogenic service?
 
-Conventional epoxies embrittle sharply once chain segments freeze in the liquid-nitrogen range, and microcracks accumulate through thermal cycling until disbondment occurs. Cryogenic selection therefore hinges on low-temperature fracture toughness and low-modulus design. SCITEO's cryogenic epoxy series endures down to −255°C, remaining modulus-stable and free of brittle cracking in the liquid-nitrogen range, with up to 95% strength retention after 1,000 hours of −196°C storage and shear strength above 16 MPa at −255°C.
+Conventional epoxies embrittle sharply once chain segments freeze in the liquid-nitrogen range, and microcracks accumulate through thermal cycling until disbondment occurs. Cryogenic selection therefore hinges on low-temperature fracture toughness and low-modulus design. SCITEO's cryogenic epoxy series endures down to −255°C, remaining modulus-stable and free of brittle cracking in the liquid-nitrogen range, with up to 95% strength retention after 1,000 hours of −196°C storage and shear strength holding 17 MPa at −255°C.
 
 ## Standards and Test Methods Referenced
 

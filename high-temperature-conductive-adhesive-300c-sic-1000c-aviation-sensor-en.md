@@ -2,7 +2,7 @@
 
 **Language:** English · [中文版（完整版）→](./high-temperature-conductive-adhesive-300c-sic-1000c-aviation-sensor-zh.md)
 
-> SCITEO high-temperature conductive adhesives span 300°C to 1000°C: a 195°C ultra-high Tg, a sub-28 ppm/°C CTE, 20 W/m·K thermal conductivity and ≤4×10⁻⁵ Ω·cm volume resistivity for 300°C SiC and IGBT die attach and wire bonding, extending to 500-1000°C ceramicized specialty grades for MWD, nuclear and aerospace sensors, with silver sintering at 260 W/m·K and copper sintering at 190 W/m·K covering higher junction temperatures.
+> SCITEO high-temperature conductive adhesives span 300°C to 1000°C: a 195°C ultra-high Tg, a sub-28 ppm/°C CTE, 20 W/m·K thermal conductivity and ≤4×10⁻⁵ Ω·cm volume resistivity for 300°C SiC and IGBT die attach and wire bonding, extending to 500-1000°C ceramicized specialty grades for MWD, nuclear and aerospace sensors, with silver sintering at 280 W/m·K and copper sintering at 190 W/m·K covering higher junction temperatures.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/high-temp-conductive-adhesive/>
 **First published:** 2026-07-02 ｜ **Author:** SCITEO advanced materials R&D team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
@@ -19,7 +19,7 @@
 | Thermal Conductivity | 20 W/m·K |
 | Volume Resistivity | ≤4×10⁻⁵ Ω·cm |
 | Shear Retention at 190°C/1500h | ≥90 % |
-| Sintered Silver Thermal Conductivity | 260 W/m·K |
+| Sintered Silver Thermal Conductivity | 280 W/m·K |
 | Sintered Copper Thermal Conductivity | 190 W/m·K |
 | SiC MOSFET Junction-Temperature Support | 175-205 °C |
 
@@ -48,7 +48,7 @@ The table below benchmarks SCITEO high-temperature conductive adhesives against 
 | Shear retention after 190°C/1500 h | ≥90% | Visible decay | GB/T 7124 / JESD22-A103 |
 | SiC MOSFET junction-temperature support | Glassy state up to 175-205°C | Not viable | AEC-Q101 |
 | High-temperature resistance stability | No surge | Percolation network rupture | ASTM D257 |
-| Sintered silver thermal conductivity | 260 W/m·K | Solder below 65 W/m·K | ASTM D5470 |
+| Sintered silver thermal conductivity | 280 W/m·K | Solder below 65 W/m·K | ASTM D5470 |
 | Sinter-bond process window | Metal bond at 200-250°C | High-temp solder above 300°C | MIL-STD-883 / TMA |
 
 ## 1. The Physics Underneath a Conductive Adhesive
@@ -170,7 +170,7 @@ Four constraints set the boundary of each interconnect route: junction temperatu
 | Lead-free solder (SAC) | 240-260°C reflow | 125-150°C | Below 65 W/m·K | Metallic | Flux residue and void sensitivity, reworkable, lowest cost; consumer electronics and general board assembly |
 | High-temp solder (AuSn eutectic and similar) | Above 300°C | 200°C range | 40-60 W/m·K | Metallic | Low interfacial thermal resistance but a narrow window, brittle joints, hard to rework; laser chips and optical-module hard-solder interfaces |
 | Conductive adhesive (SCITEO 300°C chip grade) | 150-180°C heat cure | 300°C | 20 W/m·K | ≤4×10⁻⁵ Ω·cm | Pressureless, heterogeneous-interface compatible, reworkable; SiC and IGBT bare-die attach, ceramic and plated surfaces |
-| Silver sintering (nano or micron silver) | 200-250°C | Above 200°C junction | 200-260 W/m·K | Near-pure silver | Traditional route needs ~10 MPa pressure, nano-silver allows low-pressure or pressureless; void rate is the key yield metric; SiC modules and double-sided cooling |
+| Silver sintering (nano or micron silver) | 200-250°C | Above 200°C junction | 200-280 W/m·K | Near-pure silver | Traditional route needs ~10 MPa pressure, nano-silver allows low-pressure or pressureless; void rate is the key yield metric; SiC modules and double-sided cooling |
 | Copper sintering | 200-250°C | Above 200°C junction | ~190 W/m·K | Near-pure copper | Needs a reducing atmosphere to suppress oxidation, costs less than silver and avoids migration; cost-sensitive power modules and migration-sensitive designs |
 
 The usual order is to eliminate solder on junction temperature first, then choose between conductive adhesive and sintering on bond area and void requirements, and finally close the decision on line pressure capability, rework acceptance, and material cost. SCITEO maintains all three routes so these four constraints have a combinable answer.
@@ -207,7 +207,7 @@ It solves interfacial shear tearing and die warpage. Silicon sits near 2.6 ppm/�
 
 ### Silver sintering, copper sintering, and high-temperature conductive adhesives can all attach a die. How should an engineer choose?
 
-Decide on junction temperature, bond area, and line capability. Silver sintering (nano or micron scale) forms a near-pure-metal bond at a 200-250°C process temperature, with a melting point around 961°C and thermal conductivity of 200-260 W/m·K, making it the right answer for SiC modules above 200°C junction temperature with severe power cycling. Traditional micron-silver sintering needs pressure in the 10 MPa range and dedicated equipment, while nano-silver and low-pressure pastes bring the window down to low-pressure or pressureless operation, and large-area sintering demands tight void and warpage control. Copper sintering reaches a similar process window at materially lower cost and avoids silver migration and sulfide corrosion, and its adoption is accelerating. Conductive adhesives win on process latitude, reworkability, heterogeneous-interface compatibility, and cost, and they cover glass, ceramic, and plated surfaces. SCITEO supplies pressureless silver sintering and 300°C / 500-1000°C conductive adhesive routes side by side, combined to fit junction temperature and line capability rather than treated as an either-or choice.
+Decide on junction temperature, bond area, and line capability. Silver sintering (nano or micron scale) forms a near-pure-metal bond at a 200-250°C process temperature, with a melting point around 961°C and thermal conductivity of 200-280 W/m·K, making it the right answer for SiC modules above 200°C junction temperature with severe power cycling. Traditional micron-silver sintering needs pressure in the 10 MPa range and dedicated equipment, while nano-silver and low-pressure pastes bring the window down to low-pressure or pressureless operation, and large-area sintering demands tight void and warpage control. Copper sintering reaches a similar process window at materially lower cost and avoids silver migration and sulfide corrosion, and its adoption is accelerating. Conductive adhesives win on process latitude, reworkability, heterogeneous-interface compatibility, and cost, and they cover glass, ceramic, and plated surfaces. SCITEO supplies pressureless silver sintering and 300°C / 500-1000°C conductive adhesive routes side by side, combined to fit junction temperature and line capability rather than treated as an either-or choice.
 
 ### In 500-1000°C MWD, nuclear, or SOFC service, what keeps the resistance from drifting?
 

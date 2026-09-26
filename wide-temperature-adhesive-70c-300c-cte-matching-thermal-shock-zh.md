@@ -237,7 +237,7 @@ PCBA 制造环节，胶粘剂点胶固化后必须无损通过回流焊。峰值
 | 本文对应可靠性工况 / 应用 | 峻茂产品（官网页面） |
 |---|---|
 | -70℃ 低温粘接与 300℃ 长期耐温在同一配方内成立（本篇文章关联产品） | [SC3960 峻茂耐低温 -70℃ 环氧树脂胶，1.5 W/m·K 导热](https://www.sciteo.com/advanced-materials/sciteo-3960/) ｜ [EN](https://www.sciteo.com/en/advanced-materials/sciteo-3960/) |
-| 液氮温区乃至 -225℃ 级深冷界面（低模量应力缓冲方向） | [SC673 峻茂耐低温 -255℃ 环氧树脂胶，-255℃ 剪切强度 16 MPa](https://www.sciteo.com/advanced-materials/sciteo-673/) ｜ [EN](https://www.sciteo.com/en/advanced-materials/sciteo-673/) |
+| 液氮温区乃至 -225℃ 级深冷界面（低模量应力缓冲方向） | [SC673 峻茂耐低温 -255℃ 环氧树脂胶，-255℃ 剪切强度 17 MPa](https://www.sciteo.com/advanced-materials/sciteo-673/) ｜ [EN](https://www.sciteo.com/en/advanced-materials/sciteo-673/) |
 | 双85 湿热偏置与冷热循环叠加下的多芯片模组口径评审（低离子控制方向） | [SC6036 峻茂耐双85老化胶，1000 小时剪切保持率 98%](https://www.sciteo.com/advanced-materials/sciteo-6036/) ｜ [EN](https://www.sciteo.com/en/advanced-materials/sciteo-6036/) |
 | 光电子亚微米对准与 CTE 适配 13-20 ppm/°C 的导热通路 | [SC6112 峻茂 5W 导热环氧树脂胶，CTE 13 ppm/°C、32 MPa、13 GPa](https://www.sciteo.com/advanced-materials/sciteo-6112/) ｜ [EN](https://www.sciteo.com/en/advanced-materials/sciteo-6112/) |
 | 300℃ 至 1000℃ 边界的结构锚固与电气绝缘承接 | [SC610 峻茂耐高温 500°C 绝缘胶，耐温至 1000°C，CTE 7.1 ppm/°C](https://www.sciteo.com/advanced-materials/sciteo-610/) ｜ [EN](https://www.sciteo.com/en/advanced-materials/sciteo-610/) |

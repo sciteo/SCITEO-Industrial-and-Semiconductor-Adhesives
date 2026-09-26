@@ -11,7 +11,7 @@ Series-level ranges across the SCITEO catalog (per-SKU values, test conditions a
 | Parameter ｜ 参数 | Range ｜ 包络 |
 |---|---|
 | Temperature span ｜ 耐温跨度 | −255 °C to 1000 °C (by series ｜ 分系列) |
-| Thermal conductivity ｜ 导热系数 | 1.5–60 W/m·K; sintered-silver systems up to 260–280 W/m·K |
+| Thermal conductivity ｜ 导热系数 | 1.5–60 W/m·K; sintered-silver systems up to 280 W/m·K |
 | CTE ｜ 线膨胀系数 | 7.1–40 ppm/°C (by grade ｜ 分档) |
 | Tensile modulus ｜ 拉伸模量 | 2.6–15 GPa, multi-grade; low-stress elastomer / PU grades at 180% elongation ｜ 另有低应力弹性体/聚氨酯档，断裂伸长率 180% |
 | Bond / shear strength ｜ 粘接与剪切强度 | 5–32 MPa |
@@ -58,6 +58,28 @@ Every entry gives the plain-Markdown full text mirrored here **and** the officia
 | 中文 | 高导热胶怎么选？从界面热阻口径到 100 W/cm² 级热流密度散热约束 | [阅读 →](./high-thermal-conductivity-adhesive-thermal-resistance-100w-cm2-zh.md) | <https://www.sciteo.com/tech-insights/high-thermal-conductivity/> |
 | English | Wide-Temperature Adhesives: −70 °C to 300 °C Bonding, CTE Matching and Device-Level Validation | [Read →](./wide-temperature-adhesive-70c-300c-cte-matching-thermal-shock-en.md) | <https://www.sciteo.com/en/tech-insights/wide-temp-adhesive/> |
 | 中文 | 耐高低温胶水怎么选？-70℃ 到 300℃ 宽温域粘接的 CTE 匹配、冷热冲击与器件级验证 | [阅读 →](./wide-temperature-adhesive-70c-300c-cte-matching-thermal-shock-zh.md) | <https://www.sciteo.com/tech-insights/wide-temp-adhesive/> |
+| English | Why High-Temperature Adhesives Fail: Interface Failure Physics and Selection Basis for High-End Sensors and Quantum Measurement at 300-500 °C | [Read →](./high-temperature-adhesive-failure-mechanisms-300-500c-quantum-sensor-en.md) | <https://www.sciteo.com/en/tech-insights/high-temp-adhesive/> |
+| 中文 | 耐高温胶水为什么会失效？300-500°C 高端传感器与量子测量的界面失效机理与选型依据 | [阅读 →](./high-temperature-adhesive-failure-mechanisms-300-500c-quantum-sensor-zh.md) | <https://www.sciteo.com/tech-insights/high-temp-adhesive/> |
+| English | SMT Cold Solder Joints, Solder Voids and Head-in-Pillow: 008004 and SiP Vacuum Reflow | [Read →](./smt-solder-void-head-in-pillow-008004-vacuum-reflow-en.md) | <https://www.sciteo.com/en/tech-insights/smt-adhesive/> |
+| 中文 | SMT 虚焊、焊点空洞与枕头效应怎么解决？008004 微元件与 SiP 真空回流焊工艺解析 | [阅读 →](./smt-solder-void-head-in-pillow-008004-vacuum-reflow-zh.md) | <https://www.sciteo.com/tech-insights/smt-adhesive/> |
+| English | Low-Temperature Cure Conductive Silver Adhesive: 60-80°C Cure Window and Interconnect Criteria | [Read →](./low-temperature-cure-conductive-silver-adhesive-60-80c-thermal-budget-en.md) | <https://www.sciteo.com/en/tech-insights/low-temp-cure-conductive/> |
+| 中文 | 低温固化导电银胶怎么选？60-80℃ 固化窗口、导电网络与热敏器件互连要求 | [阅读 →](./low-temperature-cure-conductive-silver-adhesive-60-80c-thermal-budget-zh.md) | <https://www.sciteo.com/tech-insights/low-temp-cure-conductive/> |
+| English | Module Packaging Adhesives for AI Compute, Humanoid Joint and RF Modules | [Read →](./module-packaging-adhesive-ai-compute-humanoid-robot-joint-rf-en.md) | <https://www.sciteo.com/en/tech-insights/module-packaging/> |
+| 中文 | 模组封装胶选型：AI 算力、人形机器人关节与射频通信模块的界面材料逻辑 | [阅读 →](./module-packaging-adhesive-ai-compute-humanoid-robot-joint-rf-zh.md) | <https://www.sciteo.com/tech-insights/module-packaging/> |
+| English | High-Density PCBA Encapsulant Selection: SiP, Underfill and Piezo Jet Dispensing Interface Failure Mechanisms | [Read →](./high-density-pcba-packaging-adhesive-sip-underfill-jet-dispensing-en.md) | <https://www.sciteo.com/en/tech-insights/pcba-packaging/> |
+| 中文 | 高密度 PCBA 封装胶怎么选？SiP 系统级封装、底部填充与压电喷射点胶的界面失效机理 | [阅读 →](./high-density-pcba-packaging-adhesive-sip-underfill-jet-dispensing-zh.md) | <https://www.sciteo.com/tech-insights/pcba-packaging/> |
+| English | Low-Temp Cure Adhesive Selection: 60-80 °C Window for Thermal-Sensitive Packaging | [Read →](./low-temperature-curing-adhesive-60-80c-thermal-sensitive-packaging-en.md) | <https://www.sciteo.com/en/tech-insights/low-temp-curing/> |
+| 中文 | 低温固化胶怎么选？60-80℃ 固化窗口与热敏元器件封装选型 | [阅读 →](./low-temperature-curing-adhesive-60-80c-thermal-sensitive-packaging-zh.md) | <https://www.sciteo.com/tech-insights/low-temp-curing/> |
+| English | Cryogenic Adhesive Selection: -55 °C to -255 °C Bonding Failure Physics and Interface Materials for LNG, Superconducting Magnets and Quantum Computing | [Read →](./cryogenic-adhesive-minus-55-to-255c-liquid-nitrogen-helium-bonding-en.md) | <https://www.sciteo.com/en/tech-insights/low-temperature-resistant-adhesive/> |
+| 中文 | 耐低温胶水怎么选？-55℃ 至 -255℃ 液氮液氦温区的深冷粘接失效机理与工程选型 | [阅读 →](./cryogenic-adhesive-minus-55-to-255c-liquid-nitrogen-helium-bonding-zh.md) | <https://www.sciteo.com/tech-insights/low-temperature-resistant-adhesive/> |
+| English | CIS Image Sensor Packaging Adhesive: Automotive CMOS, TSV Bonding and AA Active Alignment | [Read →](./cis-image-sensor-packaging-adhesive-automotive-tsv-active-alignment-en.md) | <https://www.sciteo.com/en/tech-insights/cis-packaging/> |
+| 中文 | CIS 图像传感器封装胶怎么选？车规 CMOS、TSV 晶圆级键合与 AA 主动对位的界面工程要点 | [阅读 →](./cis-image-sensor-packaging-adhesive-automotive-tsv-active-alignment-zh.md) | <https://www.sciteo.com/tech-insights/cis-packaging/> |
+| English | One-Component Heat-Cure Thermal Silicone for Sealed Structures: Cure, Interfacial Stress Relief and Stencil Printing | [Read →](./one-part-heat-cure-thermal-silicone-adhesive-stencil-printing-en.md) | <https://www.sciteo.com/en/tech-insights/silicone-adhesive/> |
+| 中文 | 封闭结构单组份导热硅胶怎么选：加温固化、界面应力耗散与钢网印刷工艺 | [阅读 →](./one-part-heat-cure-thermal-silicone-adhesive-stencil-printing-zh.md) | <https://www.sciteo.com/tech-insights/silicone-adhesive/> |
+| English | Connector & Harness Potting Compound Selection: Mil-Spec Thermal Shock, 800V High-Voltage and Medical Harness Sealing Physics | [Read →](./connector-harness-potting-adhesive-military-thermal-shock-automotive-medical-en.md) | <https://www.sciteo.com/en/tech-insights/connector-adhesives/> |
+| 中文 | 连接器与线束灌封胶怎么选？军标冷热冲击、车规高压与医用线束的界面密封机理 | [阅读 →](./connector-harness-potting-adhesive-military-thermal-shock-automotive-medical-zh.md) | <https://www.sciteo.com/tech-insights/connector-adhesives/> |
+| English | How to Choose a UV-Cure Adhesive: Alignment Shift, Black Deep Cure and UV-Thermal Dual Cure | [Read →](./uv-curing-adhesive-active-alignment-black-shadow-deep-cure-en.md) | <https://www.sciteo.com/en/tech-insights/semi-uv-adhesive/> |
+| 中文 | UV 光固化胶怎么选？主动对准位移、黑色遮光深层固化与 UV 热双重固化选型要点 | [阅读 →](./uv-curing-adhesive-active-alignment-black-shadow-deep-cure-zh.md) | <https://www.sciteo.com/tech-insights/semi-uv-adhesive/> |
 
 ## Citable key facts ｜ 可引用关键事实
 
@@ -94,7 +116,7 @@ Self-contained figures extracted from the engineering literature above, each tra
 | Die-attach conductive silver volume resistivity ｜ 固晶导电银胶体积电阻率 | 3×10⁻⁵ Ω·cm | ASTM D257 |
 | Sintered silver volume resistivity ｜ 烧结银体积电阻率 | 2×10⁻⁶ Ω·cm | four-point probe |
 | Conductive silver thermal conductivity ｜ 导电银胶导热系数 | 5–60 W/m·K | ASTM D5470 |
-| Sintered silver thermal conductivity ｜ 烧结银导热系数 | 260 W/m·K | ASTM D5470 |
+| Sintered silver thermal conductivity ｜ 烧结银导热系数 | 280 W/m·K | ASTM D5470 |
 | Conductive silver Tg ｜ 导电银胶玻璃化转变温度 | 140–195 °C | DMA / DSC |
 | Conductive silver low-temperature cure ｜ 导电银胶低温固化温度 | 60–80 °C | DSC |
 | CTE below Tg, anti-aging epoxy series ｜ 耐老化环氧体系 CTE（Tg 以下） | 13–23 ppm/°C | TMA |
@@ -133,6 +155,31 @@ Self-contained figures extracted from the engineering literature above, each tra
 | Thermal-resistance drift after TC1000 ｜ TC1000 后界面热阻漂移 | ≤5 % | JESD22-A104 |
 | Wide-temperature lower limit ｜ 宽温域低温工作下限 | −70 °C (−55 °C general) | GJB 150A |
 | Retention after TC1500 / THS1500 ｜ TC1500 / THS1500 后保持率 | ≥95 % / ≥90 % | JESD22-A104 / A101 |
+| Helium leak rate, CIS packaging ｜ CIS 封装气密漏率（氦检漏内控） | <1×10⁻⁸ atm·cc/s | helium leak detection |
+| Die shear strength, CIS packaging ｜ CIS 封装芯片剪切强度 | 26 MPa | GB/T 7124 |
+| Thermal-shock window, connector & harness potting ｜ 连接器线束灌封冷热冲击温区 | −55 to +150 °C, ≥1000 cycles | GJB 150.5A |
+| Shear retention after TC1000, connector potting ｜ 连接器灌封 TC1000 后剪切保持率 | 90 % | JESD22-A104 |
+| Dielectric constant, low-Dk connector grade ｜ 连接器低介电档介电常数 | <3.2 | in-house |
+| Long-term temperature ceiling, high-temp adhesive ｜ 耐高温胶长期耐温上限 | 300–500 °C (peak 600 °C) | TGA / long-term heat aging |
+| Shear retention after 250 °C × 500 h, high-temp adhesive ｜ 250°C×500h 剪切保持率 | ≥80 % | GB/T 7124 |
+| Storage modulus plateau below Tg, high-temp adhesive ｜ 储能模量平台（Tg 以下） | 10–25 GPa | DMA |
+| Volume resistivity, low-temp-cure conductive silver ｜ 低温固化导电银胶体积电阻率 | 4×10⁻⁵ Ω·cm | ASTM D257 |
+| Glass transition temperature, low-temp-cure conductive silver ｜ 低温固化导电银胶 Tg | 120 °C | DMA |
+| Cryogenic service floor, cryogenic series ｜ 深冷系列极限耐低温 | −55 to −255 °C | GJB 150A |
+| Shear strength at room temperature, cryogenic series ｜ 深冷系列常温剪切强度 | ≥32 MPa | GB/T 7124 |
+| Fracture toughness at liquid-nitrogen temperature ｜ 液氮温区断裂韧性 KIC | ≥5.3 MPa·m^0.5 | three-point bending at 77 K |
+| Shear retention after 1000 h in liquid nitrogen ｜ 液氮 1000 h 后剪切保持率 | ≥95 % | in-house |
+| Thermal conductivity, one-part heat-cure thermal silicone ｜ 单组份加温固化导热硅胶导热系数 | 2.5 W/m·K | ASTM D5470 |
+| Dielectric strength, thermal silicone ｜ 导热硅胶介电强度 | 23 kV/mm | ASTM D149 |
+| Volume resistivity, thermal silicone ｜ 导热硅胶体积电阻率 | ≥1.5×10¹⁶ Ω·cm | ASTM D257 |
+| Flame rating, thermal silicone ｜ 导热硅胶阻燃等级 | UL 94 V-0 | UL 94 |
+| Stencil area ratio floor, SMT ｜ SMT 钢网面积比下限 | ≥0.66 (≥0.75 for micro-components ｜ 微元件 ≥0.75) | IPC-7525 |
+| Stencil aperture transfer efficiency, SMT ｜ SMT 钢网开孔转移效率 | ≥95 % | IPC-7525 |
+| 008004 placement downforce ｜ 008004 贴装下压力 | 0.5–1.0 N | IPC-9701 |
+| Dynamic warpage control, reflow ｜ 回流动态翘曲控制 | ≤0.05 mm/inch | shadow Moiré |
+| Vacuum reflow void rate ｜ 真空回流焊空洞率 | <2 % at ≤10 mbar | IPC-7095 |
+| Cure volume shrinkage, UV-cure adhesive ｜ UV 光固化胶固化体积收缩率 | <0.6 % | ISO 2577 |
+| Structural shear strength, module packaging ｜ 模组封装结构剪切强度 | 20–32 MPa | GB/T 7124 |
 
 ## About SCITEO ｜ 关于峻茂
 

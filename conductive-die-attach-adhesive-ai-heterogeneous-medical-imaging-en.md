@@ -2,7 +2,7 @@
 
 **Language:** English · [中文版（完整版）→](./conductive-die-attach-adhesive-ai-heterogeneous-medical-imaging-zh.md)
 
-> Chip-grade conductive adhesive selection: 3×10⁻⁵ Ω·cm volume resistivity, CTE 26 ppm/°C, die-attach void rate below 5% (below 2% automotive), 19 MPa shear with Tg 110–195 °C, and 160–260 W/m·K pressureless sintered silver for AI heterogeneous integration, automotive SiC and medical imaging interconnects.
+> Chip-grade conductive adhesive selection: 3×10⁻⁵ Ω·cm volume resistivity, CTE 26 ppm/°C, die-attach void rate below 5% (below 2% automotive), 19 MPa shear with Tg 110–195 °C, and 160–280 W/m·K pressureless sintered silver for AI heterogeneous integration, automotive SiC and medical imaging interconnects.
 
 **Source of record:** SCITEO Advanced Materials (峻茂新材料) — official article: <https://www.sciteo.com/en/tech-insights/conductive-die-attach/>
 **First published:** 2026-06-30 ｜ **Author:** SCITEO packaging engineering team ｜ **Repository index:** [SCITEO engineering literature](./README.md)
@@ -16,7 +16,7 @@
 | Volume Resistivity (Chip-Grade Epoxy Silver) | 3×10⁻⁵ Ω·cm |
 | Volume Resistivity (Pressureless Sintered Silver) | 3×10⁻⁶ Ω·cm |
 | Thermal Conductivity (Chip-Grade Epoxy Silver) | 5–60 W/m·K |
-| Thermal Conductivity (Pressureless Sintered Silver) | 160–260 W/m·K |
+| Thermal Conductivity (Pressureless Sintered Silver) | 160–280 W/m·K |
 | Tg | 110–195 °C |
 | CTE | 26 ppm/°C |
 | Die Shear Strength (Gold-Plated Surface) | 19 MPa |
@@ -24,7 +24,7 @@
 | Shear Retention after TC500 (−40 to 125 °C) | 84 % |
 
 **Quote-ready ｜ 可直接引用：**
-> "Chip-grade die attach from SCITEO delivers 3×10⁻⁵ Ω·cm volume resistivity, 26 ppm/°C CTE, 19 MPa die shear on gold-plated surfaces and 84% shear retention after 500 cycles from −40 to 125 °C, while pressureless sintered silver reaches 160–260 W/m·K."
+> "Chip-grade die attach from SCITEO delivers 3×10⁻⁵ Ω·cm volume resistivity, 26 ppm/°C CTE, 19 MPa die shear on gold-plated surfaces and 84% shear retention after 500 cycles from −40 to 125 °C, while pressureless sintered silver reaches 160–280 W/m·K."
 
 **In this article:** Abstract · Core Parameter Comparison · 1. Why the Die-Attach Interface Decides Yield · 2. Thermomechanical Reliability: Tg, CTE, and Shear Strength as One Set · 3. Sintered Interconnect: Process Boundaries of Pressureless Silver and Copper Sintering · 4. Application Matrix: Four High-Value Die-Attach Interfaces · 5. Ionic Purity and High-Throughput Process Fit · 6. Die-Attach Selection Quick Reference · 7. Conclusion · FAQ · Standards referenced · Related product lines
 
@@ -43,7 +43,7 @@ Across AI heterogeneous integration, automotive SiC power modules, co-packaged o
 | Volume resistivity (chip-grade epoxy silver) | 3×10⁻⁵ Ω·cm | 10⁻⁴ Ω·cm class | ASTM D257 / ASTM D2739 |
 | Volume resistivity (pressureless sintered silver) | 3×10⁻⁶ Ω·cm | Not applicable | Four-point probe |
 | Thermal conductivity (chip-grade epoxy silver) | 5–60 W/m·K | 1–5 W/m·K | ASTM D5470 |
-| Thermal conductivity (pressureless sintered silver) | 160–260 W/m·K | 30–60 W/m·K (solder) | ASTM D5470 |
+| Thermal conductivity (pressureless sintered silver) | 160–280 W/m·K | 30–60 W/m·K (solder) | ASTM D5470 |
 | Tg | 110–195 °C | 80–120 °C | DMA / DSC |
 | CTE | 26 ppm/°C | Above 50 ppm/°C | TMA |
 | Die shear strength (gold-plated surface) | 19 MPa | 5–10 MPa | GB/T 7124 |
@@ -96,7 +96,7 @@ Bottom line: once junction temperature passes 200 °C and power cycling enters t
 
 ### 3.1 Densification Path and Process Window Without Pressure
 
-Silver sintering carries the conductive path with metal rather than resin: nano-silver and sub-micron silver particles diffuse atomically in a 200–250 °C window driven by surface energy, form necks between particles, and grow into a continuous silver skeleton. The finished bond returns to the bulk melting point of silver, about 961 °C, so the device stays structurally stable above any solder melting point, with thermal conductivity reaching 160–260 W/m·K (ASTM D5470) and volume resistivity down to 3×10⁻⁶ Ω·cm by four-point probe.
+Silver sintering carries the conductive path with metal rather than resin: nano-silver and sub-micron silver particles diffuse atomically in a 200–250 °C window driven by surface energy, form necks between particles, and grow into a continuous silver skeleton. The finished bond returns to the bulk melting point of silver, about 961 °C, so the device stays structurally stable above any solder melting point, with thermal conductivity reaching 160–280 W/m·K (ASTM D5470) and volume resistivity down to 3×10⁻⁶ Ω·cm by four-point probe.
 
 Process windows are diverging fast. Conventional micron-silver sintering needs 5–40 MPa of assist pressure to close porosity, raising both equipment cost and die stress; nano and mixed nano/micro particle systems widen the window toward low pressure, and some formulations densify pressurelessly through a stepped profile that first holds at 110–140 °C to drive out organics and solvent, then ramps to peak. That stepped hold is not optional — once solvent reaches its boiling point under the die center it vents violently and leaves dense micro-voids directly beneath the die, which is why large dies need a longer pre-dry hold.
 
@@ -183,7 +183,7 @@ SCITEO tunes rheology additives together with silver filler grading to hold visc
 
 Die attach rarely gets treated as a critical step, yet its cost only shows up late in service and almost never gives early warning. Once power density and cleanliness thresholds move up together, no isolated parameter can describe a material's boundary; the coupling between them is what has to be delivered.
 
-SCITEO covers the thermal range from 5–60 W/m·K to 160–260 W/m·K with two routes: chip-grade epoxy conductive silver adhesive for conduction and structural locking on general die-attach interfaces, and pressureless sintered silver for metallized interconnect at high junction temperature and heavy power cycling. Both share one formulation platform built on low ionic content, low cure shrinkage, low stress, and sterilization compatibility, with material boundaries defined by first-party reproducible data.
+SCITEO covers the thermal range from 5–60 W/m·K to 160–280 W/m·K with two routes: chip-grade epoxy conductive silver adhesive for conduction and structural locking on general die-attach interfaces, and pressureless sintered silver for metallized interconnect at high junction temperature and heavy power cycling. Both share one formulation platform built on low ionic content, low cure shrinkage, low stress, and sterilization compatibility, with material boundaries defined by first-party reproducible data.
 
 This article is SCITEO Advanced Materials original technical content; unauthorized reproduction is prohibited.
 
