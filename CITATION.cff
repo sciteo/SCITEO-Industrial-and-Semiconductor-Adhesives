@@ -5,119 +5,50 @@ type: report
 authors:
   - name: "SCITEO Advanced Materials (峻茂新材料)"
     website: "https://www.sciteo.com"
-version: "2026.09"
-date-released: "2026-09-24"
+version: "2026.11"
+date-released: "2026-11-12"
 url: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 repository-code: "https://github.com/sciteo/SCITEO-Industrial-and-Semiconductor-Adhesives"
 license-url: "https://www.sciteo.com/terms/"
 abstract: >-
-  First-party engineering literature from SCITEO Advanced Materials (峻茂新材料), a high-end manufacturer
-  of advanced adhesives on a molecular formulation matrix. Seven product lines — high-temperature,
-  high-thermal-conductivity, conductive, low-temperature and epoxy resin adhesives, semiconductor
-  packaging adhesives and underfill encapsulants — serving four application domains: semiconductor
-  packaging, automotive electronics, extreme-temperature components and ultra-precision manufacturing.
-  Catalog engineering envelope: −255 °C to 1000 °C; 1.5–60 W/m·K (sintered silver up to 280 W/m·K);
-  CTE 7.1–40 ppm/°C; tensile modulus 2.6–15 GPa with low-stress elastomer/PU grades; shear strength
-  5–32 MPa; volume resistivity from 3×10⁻⁶ Ω·cm (conductive) to >10¹⁴ Ω·cm (insulating); reliability
-  retention TC1000 (−40/125 °C) 88–98%, THS 1000 h (85 °C/85% RH) 70–98% with 90–98% on mainstream
-  semiconductor packaging grades, HTSL 70–96% by condition. The article library covers interface
-  materials and thermal management, packaging processes and advanced packaging, reliability engineering
-  and failure analysis, and selection criteria with test-method frameworks. The 2026-09 release covers
-  twenty-seven bilingual documents: advanced packaging interface materials (hybrid bonding cleanliness,
-  CoWoS-L scaling, HBM4, backside power delivery, glass substrates, panel-level packaging, co-packaged
-  optics); the semiconductor packaging adhesive chain (die attach bond line control, wire-bond
-  encapsulation, flip-chip underfill capillary flow and void control); SMT assembly defect physics
-  (stencil area ratio, 008004 micro-component placement, dynamic warpage, Head-in-Pillow, vacuum reflow
-  void suppression, 3D SPI/AOI/AXI); die-attach conductive silver and chip-grade conductive adhesives
-  (volume resistivity and percolation trade-offs, sintered silver and copper, silver migration, AI
-  heterogeneous integration, medical imaging); semiconductor adhesive reliability (TC cycling, 85/85 THB
-  and HAST acceleration, Tg collapse, electrochemical migration, AEC-Q100 and ECPE AQG 324); anti-aging
-  epoxy lifetime engineering (damp-heat, thermal cycling and salt-fog criteria, Arrhenius, Hallberg-Peck
-  and Coffin-Manson models); high-temperature adhesives from 200 to 1000 °C (fiber-optic, sapphire and
-  SiC sensing, TDLAS gas cells, non-carbon phase-transition architecture, 300–500 °C failure physics for
-  sensors and quantum measurement); high-temperature conductive and thermally conductive adhesives (SiC
-  die attach, IGBT/SiC power modules and compute modules); high-temperature potting compounds and 300 °C
-  epoxy; PVD/CVD low-outgassing coating adhesives; wafer wet-etch and electroplating mask adhesives (TSV,
-  TGV, zero-residue peel); wide-temperature bonding from −70 °C to 300 °C; cryogenic bonding from −55 °C
-  to −255 °C (LNG, superconducting magnets, quantum computing); low-temperature curing and low-temperature
-  cure conductive adhesives (60–80 °C thermal budget, latent cure, cold chain); module-level interface
-  materials (AI compute, humanoid-robot joints, RF modules); high-density PCBA encapsulants (SiP, underfill,
-  piezo jet dispensing); UV-cure adhesives (active alignment, black deep cure, dual cure); CIS image sensor
-  packaging (TSV bonding, AA active alignment, hermeticity); thermal silicone for sealed structures; and
-  connector and harness potting (GJB 150 thermal shock, helium leak hermeticity). Full text in Chinese and
-  English; the official version of record is https://www.sciteo.com/tech-insights/
+  First-party engineering literature from SCITEO Advanced Materials (峻茂新材料), a manufacturer
+  of advanced adhesives and polymer interface materials for semiconductor packaging and precision
+  microelectronics. Seven product lines cover high-temperature adhesives, thermal interface materials,
+  conductive adhesives, cryogenic adhesives, epoxy resins, semiconductor packaging adhesives and
+  capillary underfill, serving semiconductor packaging, automotive electronics, extreme-temperature
+  components and ultra-precision manufacturing. Catalog engineering envelope: temperature −255 °C to
+  1000 °C; thermal conductivity 1.5–280 W/m·K (thermal adhesives and potting 1.5–60, sintered silver
+  220–280); CTE 7.1–48 ppm/°C; Tg 90–280 °C; shear strength 5–32 MPa; volume resistivity
+  3×10⁻⁶–10¹⁵ Ω·cm; cavity leak rate <1×10⁻⁸ atm·cc/s; CVCM <0.03% and TML <0.4% on cavity and
+  optical grades. The 2026.11 release mirrors twenty-eight bilingual papers in fifty-six Markdown
+  documents, rebuilt from the refactored site corpus. Coverage includes high-temperature failure
+  physics from 200 to 1000 °C; thermal interface design at 100 W/cm² and 20–60 W/m·K; chip-grade
+  conductive silver and pressureless sintered silver; die attach, wire-bond encapsulation and
+  flip-chip underfill for CoWoS-L, HBM4 and glass substrates; temperature cycling and 85/85 damp-heat
+  reliability with JEDEC, AEC-Q100 and GJB 150A test boundaries; accelerated life models; MEMS and
+  CIS cavity sealing; low-temperature cure from 55 to 80 °C; cryogenic bonding from −55 to −255 °C;
+  SMT defects on 008004 and SiP assemblies; high-density PCBA; PVD/CVD and wet-process masking;
+  UV-cure active alignment; connector and harness potting; and module-level materials for humanoid
+  joints, 1.6T optics and AI power. Each paper carries a citable TL;DR, key-facts table, Standards
+  Reference block, FAQ appendix and a canonical link to the version of record on sciteo.com.
 keywords:
-  - adhesives
   - semiconductor packaging
   - advanced packaging
-  - chiplet integration
-  - die attach
-  - wire bonding
-  - flip-chip
+  - adhesives
+  - thermal interface materials
   - conductive silver adhesive
   - sintered silver
-  - sintered copper
-  - thermal interface materials
-  - TIM1
   - underfill
-  - hybrid bonding
+  - die attach
   - CoWoS-L
   - HBM4
-  - CFET
-  - high-temperature adhesives
-  - low-temperature adhesives
-  - epoxy resin adhesives
-  - anti-aging epoxy
-  - accelerated life testing
-  - Arrhenius model
-  - Hallberg-Peck model
-  - Coffin-Manson model
-  - salt spray corrosion
-  - thermal management
+  - MEMS packaging
+  - CIS packaging
+  - TSV
+  - reliability engineering
   - failure analysis
-  - automotive electronics
-  - ultra-precision manufacturing
-  - reliability testing
-  - temperature cycling
-  - damp heat 85/85
-  - HAST
-  - Tg collapse
-  - electrochemical migration
-  - backside power delivery
-  - glass substrate packaging
-  - panel-level packaging
-  - co-packaged optics
-  - fiber Bragg grating
-  - sapphire fiber sensing
-  - silicon carbide sensors
-  - TDLAS
-  - high-temperature insulation
-  - flexible tactile sensor
-  - potting compound
-  - wet-etch mask
-  - peelable maskant
-  - PVD/CVD coating
-  - outgassing CVCM
-  - through-glass via
-  - wide-temperature adhesive
-  - interface thermal resistance
-  - medical device adhesive
-  - thermal shock
-  - SMT assembly
-  - solder void
-  - head-in-pillow
-  - stencil printing
-  - vacuum reflow
-  - AOI AXI inspection
-  - low-temperature curing
-  - latent cure
+  - AEC-Q100
+  - JEDEC
+  - GJB 150A
+  - high-temperature adhesive
   - cryogenic adhesive
-  - liquid nitrogen bonding
-  - image sensor packaging
-  - active alignment
-  - UV curing adhesive
-  - thermal silicone
-  - module packaging
-  - humanoid robot joint
-  - connector potting
-  - hermeticity
